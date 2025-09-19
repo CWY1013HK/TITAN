@@ -2,12 +2,22 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --brand-navy: #0a1020;
+  --brand-navy-2: #0b142c;
+  --brand-navy-3: #0a1327;
+  --brand-blue: #2563eb;
+  --brand-indigo: #4f46e5;
+}
+
 html,
 body {
   height: 100%;
   margin: 0;
   padding: 0;
   overflow-x: hidden;
+  background-color: var(--brand-navy);
+  color: #e5ecff; /* light bluish white for readability */
 }
 
 /* Enable scrolling on mobile only */
@@ -47,7 +57,7 @@ body {
 .trajectory-page .canvas-scroll {
   overflow-y: auto;
   scrollbar-width: auto;
-  scrollbar-color: #cbd5e0 #f7fafc;
+  scrollbar-color: #cbd5e0 #0a1020;
 }
 
 .trajectory-page .canvas-scroll::-webkit-scrollbar {
@@ -57,23 +67,23 @@ body {
 }
 
 .trajectory-page .canvas-scroll::-webkit-scrollbar-track {
-  background: #f7fafc;
+  background: #0a1020;
 }
 
 .trajectory-page .canvas-scroll::-webkit-scrollbar-thumb {
-  background-color: #cbd5e0;
+  background-color: #3b82f6;
   border-radius: 4px;
 }
 
 .trajectory-page .canvas-scroll::-webkit-scrollbar-corner {
-  background: #f7fafc;
+  background: #0a1020;
 }
 
 /* Mobile specific styles */
 @media (max-width: 1023px) {
   .trajectory-page .canvas-scroll {
     scrollbar-width: thin;
-    scrollbar-color: #cbd5e0 #f7fafc;
+    scrollbar-color: #3b82f6 #0a1020;
   }
 
   .trajectory-page .canvas-scroll::-webkit-scrollbar {
@@ -83,16 +93,16 @@ body {
   }
 
   .trajectory-page .canvas-scroll::-webkit-scrollbar-track {
-    background: #f7fafc;
+    background: #0a1020;
   }
 
   .trajectory-page .canvas-scroll::-webkit-scrollbar-thumb {
-    background-color: #cbd5e0;
+    background-color: #3b82f6;
     border-radius: 3px;
   }
 
   .trajectory-page .canvas-scroll::-webkit-scrollbar-corner {
-    background: #f7fafc;
+    background: #0a1020;
   }
 }
 

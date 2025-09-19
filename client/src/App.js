@@ -185,7 +185,7 @@ const LanguageInitializer = ({ children }) => {
   // Show loading spinner while language is initializing or auth is loading
   if (!isLanguageReady || loading) {
     return (
-      <div className="flex items-center justify-center min-h-screen bg-gray-50">
+      <div className="flex items-center justify-center min-h-screen bg-[#0a1020]">
         <div className="text-center">
           <LoadingSpinner size="large" text={loading ? 'Loading user preferences...' : 'Initializing language preferences...'} />
         </div>
@@ -206,7 +206,7 @@ const MainContent = () => {
   const shouldShowFooter = !isTrajectoryPage && !isEddyPage;
 
   return (
-    <div className="flex flex-col min-h-screen bg-gray-50">
+    <div className="flex flex-col min-h-screen bg-[#0a1020] text-blue-100">
       <NavBar
         isAuthenticated={isAuthenticated}
         userData={currentUser}
