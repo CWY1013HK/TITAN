@@ -1,0 +1,30 @@
+﻿code,category,name_en,name_cn
+ENG,A,English Language,英國語文
+CHI,A,Chinese Language,中國語文
+MAT,A,Mathematics,數學
+MEP,A,Math Extended Part,數學延伸部分
+BIO,A,Biology,生物
+CHE,A,Chemistry,化學
+PHY,A,Physics,物理
+CHL,A,Chinese Literature,中國文學
+LIE,A,Literature in English,英語文學
+CHH,A,Chinese History,中國歷史
+ECO,A,Economics,經濟
+ERS,A,Ethics and Religious Studies,倫理與宗教
+GEO,A,Geography,地理
+HIS,A,History,歷史
+THS,A,Tourism and Hospitality Studies,旅遊與款待
+BAF,A,"Business, Accounting and Financial Studies",企業、會計與財務概論
+DAT,A,Design and Applied Technology,設計與應用科技
+HSC,A,Health Management and Social Care,健康管理與社會關懷
+ICT,A,Information and Communication Technology,資訊及通訊科技
+FCT,A,"Technology and Living (Fashion, Clothing and Textiles)",科技與生活(服裝、成衣與紡織)
+FST,A,Technology and Living (Food Science and Technology),科技與生活(食品科學與科技)
+MUS,A,Music,音樂
+VSA,A,Visual Arts,視覺藝術
+PHE,A,Physical Education,體育
+OTH,A,Others,其他
+ELE,X,Any Elective,任何選修科目
+SCI,X,Science Subject,科學科目
+TNL,X,Technology and Living,科技與生活
+MBO,X,Mathematics Best Only,僅計最佳數學科目

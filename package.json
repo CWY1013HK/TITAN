@@ -1,0 +1,50 @@
+{
+  "name": "new-owt",
+  "version": "1.0.0",
+  "description": "References taken from...",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha",
+    "dev": "nodemon server.js",
+    "start": "node server.js",
+    "install-all": "npm install && npm install --prefix client",
+    "build": "npm run install-all && npm run build --prefix client"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@headlessui/react": "^2.2.2",
+    "@hello-pangea/dnd": "^18.0.1",
+    "@langchain/openai": "^0.5.10",
+    "axios": "^1.5.0",
+    "bcryptjs": "^2.4.3",
+    "chart.js": "^4.4.1",
+    "compression": "^1.8.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-rate-limit": "^6.11.2",
+    "express-validator": "^7.2.1",
+    "helmet": "^7.2.0",
+    "http-errors": "^2.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "mocha": "^11.0.1",
+    "mongodb": "^6.12.0",
+    "mongoose": "^7.5.0",
+    "morgan": "^1.10.0",
+    "nodemailer": "^6.9.4",
+    "papaparse": "^5.4.1",
+    "path": "^0.12.7",
+    "pug": "^2.0.4",
+    "react-chartjs-2": "^5.2.0",
+    "react-share": "^5.2.2"
+  },
+  "packageManager": "yarn@4.4.1+sha224.fd21d9eb5fba020083811af1d4953acc21eeb9f6ff97efd1b3f9d4de",
+  "keywords": [],
+  "devDependencies": {
+    "core-js": "^3.40.0",
+    "nodemon": "^3.1.9"
+  }
+}

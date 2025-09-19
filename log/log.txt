@@ -1,0 +1,1750 @@
+2025-07-22T18:32:24.530126401Z   area_disl: [],
+2025-07-22T18:32:24.530129251Z   eddy_recommendation_title: 'Explore your options carefully',
+2025-07-22T18:32:24.530133721Z   eddy_recommendation_text: 'Hi Tszyu, nice to meet you. Considering your reasoning skills are relatively balanced, but on the lower side, you might want to focus on subjects that require less intense logical and numerical reasoning, such as Humanities or Arts-related subjects. Perhaps you could explore subjects like Geography, History, or Chinese History? We can discuss this further to find the best fit for you. Would you like to book a follow-up appointment to explore more options?',
+2025-07-22T18:32:24.530136051Z   needs_recommendation_regeneration: false,
+2025-07-22T18:32:24.530138101Z   event_types: [ 'academic', 'extracurricular', 'personal' ],
+2025-07-22T18:32:24.530140171Z   trajectory_events: [],
+2025-07-22T18:32:24.530142321Z   trajectory_connections: [],
+2025-07-22T18:32:24.530144421Z   trajectory_analyses: [],
+2025-07-22T18:32:24.530146492Z   preferred_language: 'en',
+2025-07-22T18:32:24.530148532Z   createdAt: 2025-07-22T18:27:08.945Z,
+2025-07-22T18:32:24.530150632Z   dse_scores: {
+2025-07-22T18:32:24.530152702Z     'Chinese Language': '4',
+2025-07-22T18:32:24.530154752Z     'English Language': '4',
+2025-07-22T18:32:24.530156882Z     'Mathematics Compulsory Part': '3',
+2025-07-22T18:32:24.530158922Z     'Core Subject Code': 'CSD',
+2025-07-22T18:32:24.530160952Z     'Core Score': 'Attained',
+2025-07-22T18:32:24.530162982Z     BAF_ACC: '3',
+2025-07-22T18:32:24.530165082Z     HIS: '3'
+2025-07-22T18:32:24.530167162Z   },
+2025-07-22T18:32:24.530169352Z   jupas_programme_order: {
+2025-07-22T18:32:24.530171442Z     JS7214: 0,
+2025-07-22T18:32:24.530173542Z     JS7213: 1,
+2025-07-22T18:32:24.530175572Z     JS7215: 2,
+2025-07-22T18:32:24.530177622Z     JS7302: 3,
+2025-07-22T18:32:24.530179662Z     JS7216: 4,
+2025-07-22T18:32:24.530181662Z     JS7211: 5,
+2025-07-22T18:32:24.530183722Z     JS7306: 6
+2025-07-22T18:32:24.530185772Z   }
+2025-07-22T18:32:24.530187882Z }
+2025-07-22T18:32:24.533027411Z POST /api/database/read 200 40ms
+2025-07-22T18:32:24.533070382Z POST /api/database/read 200 38.254 ms - -
+2025-07-22T18:32:25.243541487Z USER.write: Began update for User_ID: Tszyu
+2025-07-22T18:32:25.243575988Z USER.write: Update data: {
+2025-07-22T18:32:25.243583598Z   User_ID: 'Tszyu',
+2025-07-22T18:32:25.243586308Z   First_Name: 'Coey',
+2025-07-22T18:32:25.243588488Z   Last_Name: 'tai',
+2025-07-22T18:32:25.243590918Z   Nickname: 'Tszyu',
+2025-07-22T18:32:25.243593058Z   Title: 'Mr.',
+2025-07-22T18:32:25.243596558Z   Email_Address: 'c0eyyy0607@gmail.com',
+2025-07-22T18:32:25.243598738Z   Tel: '',
+2025-07-22T18:32:25.243600828Z   User_Role: 'Stu',
+2025-07-22T18:32:25.243602968Z   School_Name: '',
+2025-07-22T18:32:25.243616368Z   Form: 6,
+2025-07-22T18:32:25.243618699Z   direct_marketing: false,
+2025-07-22T18:32:25.243620909Z   email_list: false,
+2025-07-22T18:32:25.243623029Z   ability_6d: [ 1.5, 1.5, 1.5, 1.5, 1.5, 1.5 ],
+2025-07-22T18:32:25.243625899Z   eddy_recommendation_title: 'Explore your options carefully',
+2025-07-22T18:32:25.243629509Z   eddy_recommendation_text: 'Hi Tszyu, nice to meet you. Considering your reasoning skills are relatively balanced, but on the lower side, you might want to focus on subjects that require less intense logical and numerical reasoning, such as Humanities or Arts-related subjects. Perhaps you could explore subjects like Geography, History, or Chinese History? We can discuss this further to find the best fit for you. Would you like to book a follow-up appointment to explore more options?',
+2025-07-22T18:32:25.243631869Z   needs_recommendation_regeneration: false,
+2025-07-22T18:32:25.243633939Z   trajectory_events: [],
+2025-07-22T18:32:25.243636049Z   trajectory_connections: [],
+2025-07-22T18:32:25.243638169Z   trajectory_analyses: [],
+2025-07-22T18:32:25.243640269Z   event_types: [ 'academic', 'extracurricular', 'personal' ],
+2025-07-22T18:32:25.243642649Z   preferred_language: 'tc'
+2025-07-22T18:32:25.243644719Z }
+2025-07-22T18:32:25.285075513Z USER.write: Update result: {
+2025-07-22T18:32:25.285092014Z   acknowledged: true,
+2025-07-22T18:32:25.285096244Z   modifiedCount: 1,
+2025-07-22T18:32:25.285100094Z   upsertedId: null,
+2025-07-22T18:32:25.285103384Z   upsertedCount: 0,
+2025-07-22T18:32:25.285105564Z   matchedCount: 1
+2025-07-22T18:32:25.285107694Z }
+2025-07-22T18:32:25.320720308Z USER.write: Updated document: {
+2025-07-22T18:32:25.320735658Z   _id: new ObjectId("687fd7fc0a26731721088802"),
+2025-07-22T18:32:25.320738768Z   User_ID: 'Tszyu',
+2025-07-22T18:32:25.320740949Z   Title: 'Mr.',
+2025-07-22T18:32:25.320743238Z   First_Name: 'Coey',
+2025-07-22T18:32:25.320745409Z   Last_Name: 'tai',
+2025-07-22T18:32:25.320747789Z   School_Name: '',
+2025-07-22T18:32:25.320749939Z   School_District: 'centralAndWestern',
+2025-07-22T18:32:25.320752189Z   Nickname: 'Tszyu',
+2025-07-22T18:32:25.320754329Z   Form: 6,
+2025-07-22T18:32:25.320756489Z   Email_Address: 'c0eyyy0607@gmail.com',
+2025-07-22T18:32:25.320760279Z   Password: '$2a$10$0agsYjFwuA15ZTgjiBCBU.8WbbJmM4K4tMHNoLj6O3Emkhb4cwbom',
+2025-07-22T18:32:25.320762539Z   Tel: '',
+2025-07-22T18:32:25.320765019Z   User_Role: 'Stu',
+2025-07-22T18:32:25.320767129Z   direct_marketing: false,
+2025-07-22T18:32:25.320769159Z   email_list: false,
+2025-07-22T18:32:25.320771269Z   ability_6d: [ 1.5, 1.5, 1.5, 1.5, 1.5, 1.5 ],
+2025-07-22T18:32:25.320773349Z   area_like: [],
+2025-07-22T18:32:25.320775459Z   area_disl: [],
+2025-07-22T18:32:25.320778089Z   eddy_recommendation_title: 'Explore your options carefully',
+2025-07-22T18:32:25.320781039Z   eddy_recommendation_text: 'Hi Tszyu, nice to meet you. Considering your reasoning skills are relatively balanced, but on the lower side, you might want to focus on subjects that require less intense logical and numerical reasoning, such as Humanities or Arts-related subjects. Perhaps you could explore subjects like Geography, History, or Chinese History? We can discuss this further to find the best fit for you. Would you like to book a follow-up appointment to explore more options?',
+2025-07-22T18:32:25.320783369Z   needs_recommendation_regeneration: false,
+2025-07-22T18:32:25.320785489Z   event_types: [ 'academic', 'extracurricular', 'personal' ],
+2025-07-22T18:32:25.320787569Z   trajectory_events: [],
+2025-07-22T18:32:25.32078965Z   trajectory_connections: [],
+2025-07-22T18:32:25.32079175Z   trajectory_analyses: [],
+2025-07-22T18:32:25.32080157Z   preferred_language: 'tc',
+2025-07-22T18:32:25.32080381Z   createdAt: 2025-07-22T18:27:08.945Z,
+2025-07-22T18:32:25.32080594Z   dse_scores: {
+2025-07-22T18:32:25.32080809Z     'Chinese Language': '4',
+2025-07-22T18:32:25.32081015Z     'English Language': '4',
+2025-07-22T18:32:25.3208122Z     'Mathematics Compulsory Part': '3',
+2025-07-22T18:32:25.32081427Z     'Core Subject Code': 'CSD',
+2025-07-22T18:32:25.32081631Z     'Core Score': 'Attained',
+2025-07-22T18:32:25.32081839Z     BAF_ACC: '3',
+2025-07-22T18:32:25.32082044Z     HIS: '3'
+2025-07-22T18:32:25.32082255Z   },
+2025-07-22T18:32:25.32082473Z   jupas_programme_order: {
+2025-07-22T18:32:25.32082684Z     JS7214: 0,
+2025-07-22T18:32:25.32082895Z     JS7213: 1,
+2025-07-22T18:32:25.32083103Z     JS7215: 2,
+2025-07-22T18:32:25.32083307Z     JS7302: 3,
+2025-07-22T18:32:25.32083508Z     JS7216: 4,
+2025-07-22T18:32:25.320837091Z     JS7211: 5,
+2025-07-22T18:32:25.32083922Z     JS7306: 6
+2025-07-22T18:32:25.3208413Z   }
+2025-07-22T18:32:25.32084344Z }
+2025-07-22T18:32:25.322958924Z POST /api/database/write 200 79ms
+2025-07-22T18:32:25.322971614Z POST /api/database/write 200 78.057 ms - -
+2025-07-22T18:32:37.626009621Z Finding top 6 programmes starting from classification level 7 and scores: {
+2025-07-22T18:32:37.626070092Z   CHI: '4',
+2025-07-22T18:32:37.626076182Z   ENG: '4',
+2025-07-22T18:32:37.626078623Z   MAT: '3',
+2025-07-22T18:32:37.626082963Z   CSD: 'Attained',
+2025-07-22T18:32:37.626085503Z   BAF_ACC: '3',
+2025-07-22T18:32:37.626087833Z   HIS: '3'
+2025-07-22T18:32:37.626090213Z }
+2025-07-22T18:32:37.626094193Z Loaded 417 programmes from memory for filtering
+2025-07-22T18:32:37.626169494Z Found 392 programmes with classification data in memory
+2025-07-22T18:32:37.626180385Z Found 392 programmes with classification data
+2025-07-22T18:32:37.626476051Z Filtered programmes by institutions: Lingnan University. Found 22 programmes out of 392
+2025-07-22T18:32:37.706089782Z Found programmes in classification levels: 0, 1, 2, 3, 4
+2025-07-22T18:32:37.706114962Z Checking classification levels in ascending order (target 7 and higher): 
+2025-07-22T18:32:37.706119782Z Found 0 programmes across 0 classification levels () out of 15 total (processed 15 programmes)
+2025-07-22T18:32:37.707095462Z POST /api/programmes/programmes_2025/recommendations/7 200 81ms
+2025-07-22T18:32:37.707125593Z POST /api/programmes/programmes_2025/recommendations/7 200 81.201 ms - 331
+2025-07-22T18:32:41.104939953Z Finding top 6 programmes starting from classification level 6 and scores: {
+2025-07-22T18:32:41.104960843Z   CHI: '4',
+2025-07-22T18:32:41.104965523Z   ENG: '4',
+2025-07-22T18:32:41.104969643Z   MAT: '3',
+2025-07-22T18:32:41.104974304Z   CSD: 'Attained',
+2025-07-22T18:32:41.104978224Z   BAF_ACC: '3',
+2025-07-22T18:32:41.104982094Z   HIS: '3'
+2025-07-22T18:32:41.104986224Z }
+2025-07-22T18:32:41.104991034Z Loaded 417 programmes from memory for filtering
+2025-07-22T18:32:41.105006654Z Found 392 programmes with classification data in memory
+2025-07-22T18:32:41.105011074Z Found 392 programmes with classification data
+2025-07-22T18:32:41.105155937Z Filtered programmes by institutions: Lingnan University. Found 22 programmes out of 392
+2025-07-22T18:32:41.182299757Z Found programmes in classification levels: 0, 1, 2, 3, 4
+2025-07-22T18:32:41.182320448Z Checking classification levels in ascending order (target 6 and higher): 
+2025-07-22T18:32:41.182325968Z Found 0 programmes across 0 classification levels () out of 15 total (processed 15 programmes)
+2025-07-22T18:32:41.183019582Z POST /api/programmes/programmes_2025/recommendations/6 200 78ms
+2025-07-22T18:32:41.183099924Z POST /api/programmes/programmes_2025/recommendations/6 200 78.113 ms - 331
+2025-07-22T18:32:44.995244264Z Finding top 6 programmes starting from classification level 5 and scores: {
+2025-07-22T18:32:44.995259954Z   CHI: '4',
+2025-07-22T18:32:44.995263765Z   ENG: '4',
+2025-07-22T18:32:44.995267115Z   MAT: '3',
+2025-07-22T18:32:44.995270895Z   CSD: 'Attained',
+2025-07-22T18:32:44.995273815Z   BAF_ACC: '3',
+2025-07-22T18:32:44.995276555Z   HIS: '3'
+2025-07-22T18:32:44.995279195Z }
+2025-07-22T18:32:44.995282325Z Loaded 417 programmes from memory for filtering
+2025-07-22T18:32:44.995315526Z Found 392 programmes with classification data in memory
+2025-07-22T18:32:44.995322226Z Found 392 programmes with classification data
+2025-07-22T18:32:44.995476069Z Filtered programmes by institutions: Lingnan University. Found 22 programmes out of 392
+2025-07-22T18:32:45.071821233Z Found programmes in classification levels: 0, 1, 2, 3, 4
+2025-07-22T18:32:45.071837903Z Checking classification levels in ascending order (target 5 and higher): 
+2025-07-22T18:32:45.071840963Z Found 0 programmes across 0 classification levels () out of 15 total (processed 15 programmes)
+2025-07-22T18:32:45.072457546Z POST /api/programmes/programmes_2025/recommendations/5 200 78ms
+2025-07-22T18:32:45.072480866Z POST /api/programmes/programmes_2025/recommendations/5 200 77.367 ms - 331
+2025-07-22T18:32:49.359372052Z Finding top 6 programmes starting from classification level 4 and scores: {
+2025-07-22T18:32:49.359388003Z   CHI: '4',
+2025-07-22T18:32:49.359390263Z   ENG: '4',
+2025-07-22T18:32:49.359392093Z   MAT: '3',
+2025-07-22T18:32:49.359394103Z   CSD: 'Attained',
+2025-07-22T18:32:49.359396033Z   BAF_ACC: '3',
+2025-07-22T18:32:49.359397733Z   HIS: '3'
+2025-07-22T18:32:49.359399413Z }
+2025-07-22T18:32:49.359401323Z Loaded 417 programmes from memory for filtering
+2025-07-22T18:32:49.359528546Z Found 392 programmes with classification data in memory
+2025-07-22T18:32:49.359535926Z Found 392 programmes with classification data
+2025-07-22T18:32:49.359769731Z Filtered programmes by institutions: Lingnan University. Found 22 programmes out of 392
+2025-07-22T18:32:49.436685526Z Found programmes in classification levels: 0, 1, 2, 3, 4
+2025-07-22T18:32:49.436703166Z Checking classification levels in ascending order (target 4 and higher): 4
+2025-07-22T18:32:49.436705877Z Adding 1 programmes from classification level 4 (Moderate)
+2025-07-22T18:32:49.436708606Z Found 1 programmes across 1 classification levels (4) out of 15 total (processed 15 programmes)
+2025-07-22T18:32:49.439200718Z POST /api/programmes/programmes_2025/recommendations/4 200 81ms
+2025-07-22T18:32:49.439249769Z POST /api/programmes/programmes_2025/recommendations/4 200 78.425 ms - -
+2025-07-22T18:33:03.74827483Z Finding top 6 programmes starting from classification level 8 and scores: {
+2025-07-22T18:33:03.748296391Z   CHI: '4',
+2025-07-22T18:33:03.748299051Z   ENG: '4',
+2025-07-22T18:33:03.748301331Z   MAT: '3',
+2025-07-22T18:33:03.748303911Z   CSD: 'Attained',
+2025-07-22T18:33:03.748306351Z   BAF_ACC: '3',
+2025-07-22T18:33:03.748308541Z   HIS: '3'
+2025-07-22T18:33:03.748310661Z }
+2025-07-22T18:33:03.748313401Z Loaded 417 programmes from memory for filtering
+2025-07-22T18:33:03.748326072Z Found 392 programmes with classification data in memory
+2025-07-22T18:33:03.748328482Z Found 392 programmes with classification data
+2025-07-22T18:33:03.748652498Z Filtered programmes by institutions: Lingnan University. Found 22 programmes out of 392
+2025-07-22T18:33:03.822865538Z Found programmes in classification levels: 0, 1, 2, 3, 4
+2025-07-22T18:33:03.822885648Z Checking classification levels in ascending order (target 8 and higher): 
+2025-07-22T18:33:03.822889019Z Found 0 programmes across 0 classification levels () out of 15 total (processed 15 programmes)
+2025-07-22T18:33:03.82346356Z POST /api/programmes/programmes_2025/recommendations/8 200 76ms
+2025-07-22T18:33:03.823483371Z POST /api/programmes/programmes_2025/recommendations/8 200 75.408 ms - 331
+2025-07-22T18:33:06.465976Z Finding top 6 programmes starting from classification level 7 and scores: {
+2025-07-22T18:33:06.466002201Z   CHI: '4',
+2025-07-22T18:33:06.466006671Z   ENG: '4',
+2025-07-22T18:33:06.466010241Z   MAT: '3',
+2025-07-22T18:33:06.466014241Z   CSD: 'Attained',
+2025-07-22T18:33:06.466017891Z   BAF_ACC: '3',
+2025-07-22T18:33:06.466021571Z   HIS: '3'
+2025-07-22T18:33:06.466025131Z }
+2025-07-22T18:33:06.466057392Z Loaded 417 programmes from memory for filtering
+2025-07-22T18:33:06.466080672Z Found 392 programmes with classification data in memory
+2025-07-22T18:33:06.466095292Z Found 392 programmes with classification data
+2025-07-22T18:33:06.466192805Z Filtered programmes by institutions: Lingnan University. Found 22 programmes out of 392
+2025-07-22T18:33:06.541842514Z Found programmes in classification levels: 0, 1, 2, 3, 4
+2025-07-22T18:33:06.541865894Z Checking classification levels in ascending order (target 7 and higher): 
+2025-07-22T18:33:06.541873054Z Found 0 programmes across 0 classification levels () out of 15 total (processed 15 programmes)
+2025-07-22T18:33:06.542677971Z POST /api/programmes/programmes_2025/recommendations/7 200 77ms
+2025-07-22T18:33:06.542695022Z POST /api/programmes/programmes_2025/recommendations/7 200 76.750 ms - 331
+2025-07-22T18:33:09.3088892Z Finding top 6 programmes starting from classification level 6 and scores: {
+2025-07-22T18:33:09.308913491Z   CHI: '4',
+2025-07-22T18:33:09.308917641Z   ENG: '4',
+2025-07-22T18:33:09.308921391Z   MAT: '3',
+2025-07-22T18:33:09.308925401Z   CSD: 'Attained',
+2025-07-22T18:33:09.308928821Z   BAF_ACC: '3',
+2025-07-22T18:33:09.308932301Z   HIS: '3'
+2025-07-22T18:33:09.308935991Z }
+2025-07-22T18:33:09.308940181Z Loaded 417 programmes from memory for filtering
+2025-07-22T18:33:09.308963472Z Found 392 programmes with classification data in memory
+2025-07-22T18:33:09.308981872Z Found 392 programmes with classification data
+2025-07-22T18:33:09.309195007Z Filtered programmes by institutions: Lingnan University. Found 22 programmes out of 392
+2025-07-22T18:33:09.385231164Z Found programmes in classification levels: 0, 1, 2, 3, 4
+2025-07-22T18:33:09.450744604Z Checking classification levels in ascending order (target 6 and higher): 
+2025-07-22T18:33:09.450760265Z Found 0 programmes across 0 classification levels () out of 15 total (processed 15 programmes)
+2025-07-22T18:33:09.450792905Z POST /api/programmes/programmes_2025/recommendations/6 200 77ms
+2025-07-22T18:33:09.450801295Z POST /api/programmes/programmes_2025/recommendations/6 200 77.200 ms - 331
+2025-07-22T18:33:11.742809291Z POST /api/jupas-order/save 200 80ms
+2025-07-22T18:33:11.742836961Z POST /api/jupas-order/save 200 79.796 ms - 139
+2025-07-22T18:33:11.841631608Z Classifying programme JS7215 with scores: {
+2025-07-22T18:33:11.841654698Z   CHI: '4',
+2025-07-22T18:33:11.841659358Z   ENG: '4',
+2025-07-22T18:33:11.841663338Z   MAT: '3',
+2025-07-22T18:33:11.841672068Z   CSD: 'Attained',
+2025-07-22T18:33:11.841676338Z   BAF_ACC: '3',
+2025-07-22T18:33:11.841680558Z   HIS: '3'
+2025-07-22T18:33:11.841699589Z }
+2025-07-22T18:33:11.847426837Z Classifying programme JS7306 with scores: {
+2025-07-22T18:33:11.847439987Z   CHI: '4',
+2025-07-22T18:33:11.847442707Z   ENG: '4',
+2025-07-22T18:33:11.847444937Z   MAT: '3',
+2025-07-22T18:33:11.847447367Z   CSD: 'Attained',
+2025-07-22T18:33:11.847449537Z   BAF_ACC: '3',
+2025-07-22T18:33:11.847451648Z   HIS: '3'
+2025-07-22T18:33:11.847453717Z }
+2025-07-22T18:33:11.848389277Z Classifying programme JS7211 with scores: {
+2025-07-22T18:33:11.848396167Z   CHI: '4',
+2025-07-22T18:33:11.848398367Z   ENG: '4',
+2025-07-22T18:33:11.848400537Z   MAT: '3',
+2025-07-22T18:33:11.848403247Z   CSD: 'Attained',
+2025-07-22T18:33:11.848405427Z   BAF_ACC: '3',
+2025-07-22T18:33:11.848407577Z   HIS: '3'
+2025-07-22T18:33:11.848409647Z }
+2025-07-22T18:33:11.850165673Z Classifying programme JS7216 with scores: {
+2025-07-22T18:33:11.850173884Z   CHI: '4',
+2025-07-22T18:33:11.850176504Z   ENG: '4',
+2025-07-22T18:33:11.850178724Z   MAT: '3',
+2025-07-22T18:33:11.850181084Z   CSD: 'Attained',
+2025-07-22T18:33:11.850183224Z   BAF_ACC: '3',
+2025-07-22T18:33:11.850185304Z   HIS: '3'
+2025-07-22T18:33:11.850187384Z }
+2025-07-22T18:33:11.861549788Z Classifying programme JS7302 with scores: {
+2025-07-22T18:33:11.861558438Z   CHI: '4',
+2025-07-22T18:33:11.861560738Z   ENG: '4',
+2025-07-22T18:33:11.861563018Z   MAT: '3',
+2025-07-22T18:33:11.861565458Z   CSD: 'Attained',
+2025-07-22T18:33:11.861567608Z   BAF_ACC: '3',
+2025-07-22T18:33:11.861569728Z   HIS: '3'
+2025-07-22T18:33:11.861571788Z }
+2025-07-22T18:33:11.876320212Z --- classifyProgramme() called ---
+2025-07-22T18:33:11.876345113Z User scores: {
+2025-07-22T18:33:11.876347613Z   CHI: '4',
+2025-07-22T18:33:11.876351203Z   ENG: '4',
+2025-07-22T18:33:11.876352933Z   MAT: '3',
+2025-07-22T18:33:11.876354613Z   CSD: 'Attained',
+2025-07-22T18:33:11.876356383Z   BAF_ACC: '3',
+2025-07-22T18:33:11.876358253Z   HIS: '3'
+2025-07-22T18:33:11.876360043Z }
+2025-07-22T18:33:11.876417005Z Programme requirements: {
+2025-07-22T18:33:11.876423605Z   requirement_compulsory: { ENG: 3, CHI: 3, MAT: 2 },
+2025-07-22T18:33:11.876426835Z   requirement_optional_1: { ELE: 2 },
+2025-07-22T18:33:11.876429375Z   requirement_optional_2: { ELE: 2 },
+2025-07-22T18:33:11.876432345Z   level_5_bonus: false,
+2025-07-22T18:33:11.876435245Z   subject_compulsory: null,
+2025-07-22T18:33:11.876438005Z   subject_optional_1: null,
+2025-07-22T18:33:11.876440395Z   subject_optional_2: null,
+2025-07-22T18:33:11.876443035Z   subject_free_number: 5,
+2025-07-22T18:33:11.876446205Z   subject_free_weight: { ENG: 2, MAT: 2, MEP: 1.5, BAF: 1.5, ECO: 1.5, ICT: 1.5 },
+2025-07-22T18:33:11.876448975Z   subject_weight_limit: null,
+2025-07-22T18:33:11.876451655Z   score_uq: null,
+2025-07-22T18:33:11.876454245Z   score_md: 23.5,
+2025-07-22T18:33:11.876456975Z   score_lq: 23
+2025-07-22T18:33:11.876459615Z }
+2025-07-22T18:33:11.876466435Z Calculated total_score: 25.5
+2025-07-22T18:33:11.876469575Z Quartiles: UQ: null MD: 23.5 LQ: 23
+2025-07-22T18:33:11.876472116Z Final classification: 5
+2025-07-22T18:33:11.876474806Z Classification result for JS7215: 5 (Safe), Score: 25.5
+2025-07-22T18:33:11.877096659Z POST /api/programmes/programmes_2025/classify 200 36ms
+2025-07-22T18:33:11.87715276Z POST /api/programmes/programmes_2025/classify 200 35.577 ms - 139
+2025-07-22T18:33:11.88252239Z --- classifyProgramme() called ---
+2025-07-22T18:33:11.88253238Z User scores: {
+2025-07-22T18:33:11.88253482Z   CHI: '4',
+2025-07-22T18:33:11.882548181Z   ENG: '4',
+2025-07-22T18:33:11.882550801Z   MAT: '3',
+2025-07-22T18:33:11.882553071Z   CSD: 'Attained',
+2025-07-22T18:33:11.882555181Z   BAF_ACC: '3',
+2025-07-22T18:33:11.882557241Z   HIS: '3'
+2025-07-22T18:33:11.882559361Z }
+2025-07-22T18:33:11.882570151Z Programme requirements: {
+2025-07-22T18:33:11.882572691Z   requirement_compulsory: { ENG: 3, CHI: 3, MAT: 2 },
+2025-07-22T18:33:11.882574892Z   requirement_optional_1: { ELE: 2 },
+2025-07-22T18:33:11.882576952Z   requirement_optional_2: { ELE: 2 },
+2025-07-22T18:33:11.882579061Z   level_5_bonus: false,
+2025-07-22T18:33:11.882581132Z   subject_compulsory: null,
+2025-07-22T18:33:11.882583192Z   subject_optional_1: null,
+2025-07-22T18:33:11.882585302Z   subject_optional_2: null,
+2025-07-22T18:33:11.882587472Z   subject_free_number: 5,
+2025-07-22T18:33:11.882589782Z   subject_free_weight: { ENG: 2, MAT: 2, MEP: 1.5, BAF: 1.5 },
+2025-07-22T18:33:11.882592012Z   subject_weight_limit: null,
+2025-07-22T18:33:11.882594592Z   score_uq: null,
+2025-07-22T18:33:11.882596732Z   score_md: 23.5,
+2025-07-22T18:33:11.882598832Z   score_lq: 23
+2025-07-22T18:33:11.882600932Z }
+2025-07-22T18:33:11.882611492Z Calculated total_score: 25.5
+2025-07-22T18:33:11.882613852Z Quartiles: UQ: null MD: 23.5 LQ: 23
+2025-07-22T18:33:11.882616032Z Final classification: 5
+2025-07-22T18:33:11.882621712Z Classification result for JS7211: 5 (Safe), Score: 25.5
+2025-07-22T18:33:11.883169354Z POST /api/programmes/programmes_2025/classify 200 35ms
+2025-07-22T18:33:11.883183984Z POST /api/programmes/programmes_2025/classify 200 34.728 ms - 139
+2025-07-22T18:33:11.88446389Z --- classifyProgramme() called ---
+2025-07-22T18:33:11.884487971Z User scores: {
+2025-07-22T18:33:11.884500321Z   CHI: '4',
+2025-07-22T18:33:11.884503871Z   ENG: '4',
+2025-07-22T18:33:11.884507081Z   MAT: '3',
+2025-07-22T18:33:11.884510751Z   CSD: 'Attained',
+2025-07-22T18:33:11.884514312Z   BAF_ACC: '3',
+2025-07-22T18:33:11.884517412Z   HIS: '3'
+2025-07-22T18:33:11.884519612Z }
+2025-07-22T18:33:11.884533612Z Programme requirements: {
+2025-07-22T18:33:11.884537512Z   requirement_compulsory: { ENG: 3, CHI: 3, MAT: 2 },
+2025-07-22T18:33:11.884541122Z   requirement_optional_1: { ELE: 2 },
+2025-07-22T18:33:11.884544782Z   requirement_optional_2: { ELE: 2 },
+2025-07-22T18:33:11.884547972Z   level_5_bonus: false,
+2025-07-22T18:33:11.884551592Z   subject_compulsory: null,
+2025-07-22T18:33:11.884554802Z   subject_optional_1: null,
+2025-07-22T18:33:11.884558152Z   subject_optional_2: null,
+2025-07-22T18:33:11.884561552Z   subject_free_number: 5,
+2025-07-22T18:33:11.884564882Z   subject_free_weight: { ENG: 2, MAT: 1.5, MEP: 1.5 },
+2025-07-22T18:33:11.884568753Z   subject_weight_limit: null,
+2025-07-22T18:33:11.884571273Z   score_uq: null,
+2025-07-22T18:33:11.884573413Z   score_md: 23,
+2025-07-22T18:33:11.884575573Z   score_lq: 22.5
+2025-07-22T18:33:11.884577733Z }
+2025-07-22T18:33:11.884589883Z Calculated total_score: 22.5
+2025-07-22T18:33:11.884593413Z Quartiles: UQ: null MD: 23 LQ: 22.5
+2025-07-22T18:33:11.884603143Z Final classification: 3
+2025-07-22T18:33:11.884606553Z Classification result for JS7306: 3 (Risky), Score: 22.5
+2025-07-22T18:33:11.885102213Z POST /api/programmes/programmes_2025/classify 200 37ms
+2025-07-22T18:33:11.885111054Z POST /api/programmes/programmes_2025/classify 200 37.647 ms - 140
+2025-07-22T18:33:11.891095107Z --- classifyProgramme() called ---
+2025-07-22T18:33:11.891109077Z User scores: {
+2025-07-22T18:33:11.891112587Z   CHI: '4',
+2025-07-22T18:33:11.891125768Z   ENG: '4',
+2025-07-22T18:33:11.891129008Z   MAT: '3',
+2025-07-22T18:33:11.891132278Z   CSD: 'Attained',
+2025-07-22T18:33:11.891135108Z   BAF_ACC: '3',
+2025-07-22T18:33:11.891138408Z   HIS: '3'
+2025-07-22T18:33:11.891141018Z }
+2025-07-22T18:33:11.891157398Z Programme requirements: {
+2025-07-22T18:33:11.891161328Z   requirement_compulsory: { ENG: 3, CHI: 3, MAT: 2 },
+2025-07-22T18:33:11.891164158Z   requirement_optional_1: { ELE: 2 },
+2025-07-22T18:33:11.891167369Z   requirement_optional_2: { ELE: 2 },
+2025-07-22T18:33:11.891170049Z   level_5_bonus: false,
+2025-07-22T18:33:11.891172729Z   subject_compulsory: null,
+2025-07-22T18:33:11.891175539Z   subject_optional_1: null,
+2025-07-22T18:33:11.891178159Z   subject_optional_2: null,
+2025-07-22T18:33:11.891180799Z   subject_free_number: 5,
+2025-07-22T18:33:11.891184229Z   subject_free_weight: { ENG: 2, MAT: 2, MEP: 2, ECO: 1.5, ICT: 1.5 },
+2025-07-22T18:33:11.891187299Z   subject_weight_limit: null,
+2025-07-22T18:33:11.891189979Z   score_uq: null,
+2025-07-22T18:33:11.891192699Z   score_md: 23.5,
+2025-07-22T18:33:11.891195499Z   score_lq: 23
+2025-07-22T18:33:11.891198329Z }
+2025-07-22T18:33:11.891212039Z Calculated total_score: 24
+2025-07-22T18:33:11.89121517Z Quartiles: UQ: null MD: 23.5 LQ: 23
+2025-07-22T18:33:11.89121803Z Final classification: 4
+2025-07-22T18:33:11.89122099Z Classification result for JS7216: 4 (Moderate), Score: 24
+2025-07-22T18:33:11.891699449Z POST /api/programmes/programmes_2025/classify 200 42ms
+2025-07-22T18:33:11.89170695Z POST /api/programmes/programmes_2025/classify 200 41.516 ms - 141
+2025-07-22T18:33:11.898915198Z --- classifyProgramme() called ---
+2025-07-22T18:33:11.898933009Z User scores: {
+2025-07-22T18:33:11.898936009Z   CHI: '4',
+2025-07-22T18:33:11.898938769Z   ENG: '4',
+2025-07-22T18:33:11.898941369Z   MAT: '3',
+2025-07-22T18:33:11.898944839Z   CSD: 'Attained',
+2025-07-22T18:33:11.898947899Z   BAF_ACC: '3',
+2025-07-22T18:33:11.898950649Z   HIS: '3'
+2025-07-22T18:33:11.898953089Z }
+2025-07-22T18:33:11.898955979Z Programme requirements: {
+2025-07-22T18:33:11.898959309Z   requirement_compulsory: { ENG: 3, CHI: 3, MAT: 2 },
+2025-07-22T18:33:11.898962019Z   requirement_optional_1: { ELE: 2 },
+2025-07-22T18:33:11.898964589Z   requirement_optional_2: { ELE: 2 },
+2025-07-22T18:33:11.898967149Z   level_5_bonus: false,
+2025-07-22T18:33:11.898969819Z   subject_compulsory: null,
+2025-07-22T18:33:11.898972599Z   subject_optional_1: null,
+2025-07-22T18:33:11.89897495Z   subject_optional_2: null,
+2025-07-22T18:33:11.898977219Z   subject_free_number: 5,
+2025-07-22T18:33:11.89898001Z   subject_free_weight: { ENG: 2, MAT: 1.5, MEP: 1.5, CHH: 1.5, GEO: 1.5, HIS: 1.5 },
+2025-07-22T18:33:11.8989826Z   subject_weight_limit: null,
+2025-07-22T18:33:11.89898526Z   score_uq: null,
+2025-07-22T18:33:11.89898794Z   score_md: 25,
+2025-07-22T18:33:11.8989905Z   score_lq: 23.5
+2025-07-22T18:33:11.89899319Z }
+2025-07-22T18:33:11.89900103Z Calculated total_score: 24
+2025-07-22T18:33:11.89900374Z Quartiles: UQ: null MD: 25 LQ: 23.5
+2025-07-22T18:33:11.89900659Z Final classification: 3
+2025-07-22T18:33:11.89900965Z Classification result for JS7302: 3 (Risky), Score: 24
+2025-07-22T18:33:11.89945802Z POST /api/programmes/programmes_2025/classify 200 38ms
+2025-07-22T18:33:11.89946942Z POST /api/programmes/programmes_2025/classify 200 37.964 ms - 138
+2025-07-22T18:33:11.984115294Z POST /api/jupas-order/save 200 87ms
+2025-07-22T18:33:11.984132905Z POST /api/jupas-order/save 200 86.942 ms - 128
+2025-07-22T18:33:12.02755436Z Classifying programme JS7306 with scores: {
+2025-07-22T18:33:12.02757486Z   CHI: '4',
+2025-07-22T18:33:12.0275793Z   ENG: '4',
+2025-07-22T18:33:12.02758308Z   MAT: '3',
+2025-07-22T18:33:12.027587041Z   CSD: 'Attained',
+2025-07-22T18:33:12.02759049Z   BAF_ACC: '3',
+2025-07-22T18:33:12.027593701Z   HIS: '3'
+2025-07-22T18:33:12.027596941Z }
+2025-07-22T18:33:12.028995759Z Classifying programme JS7302 with scores: {
+2025-07-22T18:33:12.02901073Z   CHI: '4',
+2025-07-22T18:33:12.02901311Z   ENG: '4',
+2025-07-22T18:33:12.02901486Z   MAT: '3',
+2025-07-22T18:33:12.0290168Z   CSD: 'Attained',
+2025-07-22T18:33:12.0290187Z   BAF_ACC: '3',
+2025-07-22T18:33:12.02902041Z   HIS: '3'
+2025-07-22T18:33:12.02902202Z }
+2025-07-22T18:33:12.029791086Z Classifying programme JS7216 with scores: {
+2025-07-22T18:33:12.029798496Z   CHI: '4',
+2025-07-22T18:33:12.029800796Z   ENG: '4',
+2025-07-22T18:33:12.029802916Z   MAT: '3',
+2025-07-22T18:33:12.029805666Z   CSD: 'Attained',
+2025-07-22T18:33:12.029807766Z   BAF_ACC: '3',
+2025-07-22T18:33:12.029809826Z   HIS: '3'
+2025-07-22T18:33:12.029812216Z }
+2025-07-22T18:33:12.042808144Z Classifying programme JS7211 with scores: {
+2025-07-22T18:33:12.042824035Z   CHI: '4',
+2025-07-22T18:33:12.042827905Z   ENG: '4',
+2025-07-22T18:33:12.042830905Z   MAT: '3',
+2025-07-22T18:33:12.042834555Z   CSD: 'Attained',
+2025-07-22T18:33:12.042838055Z   BAF_ACC: '3',
+2025-07-22T18:33:12.042841485Z   HIS: '3'
+2025-07-22T18:33:12.042844745Z }
+2025-07-22T18:33:12.089737072Z --- classifyProgramme() called ---
+2025-07-22T18:33:12.089763812Z User scores: {
+2025-07-22T18:33:12.089766812Z   CHI: '4',
+2025-07-22T18:33:12.089769142Z   ENG: '4',
+2025-07-22T18:33:12.089771182Z   MAT: '3',
+2025-07-22T18:33:12.089773902Z   CSD: 'Attained',
+2025-07-22T18:33:12.089775992Z   BAF_ACC: '3',
+2025-07-22T18:33:12.089778003Z   HIS: '3'
+2025-07-22T18:33:12.089780123Z }
+2025-07-22T18:33:12.089782903Z Programme requirements: {
+2025-07-22T18:33:12.089785643Z   requirement_compulsory: { ENG: 3, CHI: 3, MAT: 2 },
+2025-07-22T18:33:12.089787873Z   requirement_optional_1: { ELE: 2 },
+2025-07-22T18:33:12.089790103Z   requirement_optional_2: { ELE: 2 },
+2025-07-22T18:33:12.089792173Z   level_5_bonus: false,
+2025-07-22T18:33:12.089795153Z   subject_compulsory: null,
+2025-07-22T18:33:12.089798903Z   subject_optional_1: null,
+2025-07-22T18:33:12.089802263Z   subject_optional_2: null,
+2025-07-22T18:33:12.089805453Z   subject_free_number: 5,
+2025-07-22T18:33:12.089809053Z   subject_free_weight: { ENG: 2, MAT: 1.5, MEP: 1.5 },
+2025-07-22T18:33:12.089812653Z   subject_weight_limit: null,
+2025-07-22T18:33:12.089815823Z   score_uq: null,
+2025-07-22T18:33:12.089819503Z   score_md: 23,
+2025-07-22T18:33:12.089822833Z   score_lq: 22.5
+2025-07-22T18:33:12.089826224Z }
+2025-07-22T18:33:12.089841164Z Calculated total_score: 22.5
+2025-07-22T18:33:12.089843604Z Quartiles: UQ: null MD: 23 LQ: 22.5
+2025-07-22T18:33:12.089845754Z Final classification: 3
+2025-07-22T18:33:12.089847904Z Classification result for JS7306: 3 (Risky), Score: 22.5
+2025-07-22T18:33:12.090326814Z POST /api/programmes/programmes_2025/classify 200 63ms
+2025-07-22T18:33:12.090344514Z POST /api/programmes/programmes_2025/classify 200 62.729 ms - 140
+2025-07-22T18:33:12.091534859Z --- classifyProgramme() called ---
+2025-07-22T18:33:12.091546449Z User scores: {
+2025-07-22T18:33:12.091548959Z   CHI: '4',
+2025-07-22T18:33:12.091551039Z   ENG: '4',
+2025-07-22T18:33:12.091568249Z   MAT: '3',
+2025-07-22T18:33:12.091571359Z   CSD: 'Attained',
+2025-07-22T18:33:12.091573479Z   BAF_ACC: '3',
+2025-07-22T18:33:12.091575889Z   HIS: '3'
+2025-07-22T18:33:12.091578029Z }
+2025-07-22T18:33:12.091593Z Programme requirements: {
+2025-07-22T18:33:12.09159633Z   requirement_compulsory: { ENG: 3, CHI: 3, MAT: 2 },
+2025-07-22T18:33:12.09159848Z   requirement_optional_1: { ELE: 2 },
+2025-07-22T18:33:12.09160051Z   requirement_optional_2: { ELE: 2 },
+2025-07-22T18:33:12.0916036Z   level_5_bonus: false,
+2025-07-22T18:33:12.09160715Z   subject_compulsory: null,
+2025-07-22T18:33:12.09161077Z   subject_optional_1: null,
+2025-07-22T18:33:12.09161424Z   subject_optional_2: null,
+2025-07-22T18:33:12.09161785Z   subject_free_number: 5,
+2025-07-22T18:33:12.09162154Z   subject_free_weight: { ENG: 2, MAT: 2, MEP: 2, ECO: 1.5, ICT: 1.5 },
+2025-07-22T18:33:12.09162509Z   subject_weight_limit: null,
+2025-07-22T18:33:12.09162849Z   score_uq: null,
+2025-07-22T18:33:12.091631821Z   score_md: 23.5,
+2025-07-22T18:33:12.091635481Z   score_lq: 23
+2025-07-22T18:33:12.091638511Z }
+2025-07-22T18:33:12.091641071Z Calculated total_score: 24
+2025-07-22T18:33:12.091643301Z Quartiles: UQ: null MD: 23.5 LQ: 23
+2025-07-22T18:33:12.091648561Z Final classification: 4
+2025-07-22T18:33:12.091653451Z Classification result for JS7216: 4 (Moderate), Score: 24
+2025-07-22T18:33:12.092013249Z POST /api/programmes/programmes_2025/classify 200 62ms
+2025-07-22T18:33:12.092018518Z POST /api/programmes/programmes_2025/classify 200 62.176 ms - 141
+2025-07-22T18:33:12.093212943Z --- classifyProgramme() called ---
+2025-07-22T18:33:12.093220023Z User scores: {
+2025-07-22T18:33:12.093221903Z   CHI: '4',
+2025-07-22T18:33:12.093223554Z   ENG: '4',
+2025-07-22T18:33:12.093225274Z   MAT: '3',
+2025-07-22T18:33:12.093227283Z   CSD: 'Attained',
+2025-07-22T18:33:12.093229003Z   BAF_ACC: '3',
+2025-07-22T18:33:12.093231024Z   HIS: '3'
+2025-07-22T18:33:12.093232714Z }
+2025-07-22T18:33:12.093237724Z Programme requirements: {
+2025-07-22T18:33:12.093239934Z   requirement_compulsory: { ENG: 3, CHI: 3, MAT: 2 },
+2025-07-22T18:33:12.093241704Z   requirement_optional_1: { ELE: 2 },
+2025-07-22T18:33:12.093243394Z   requirement_optional_2: { ELE: 2 },
+2025-07-22T18:33:12.093245034Z   level_5_bonus: false,
+2025-07-22T18:33:12.093246724Z   subject_compulsory: null,
+2025-07-22T18:33:12.093248394Z   subject_optional_1: null,
+2025-07-22T18:33:12.093250024Z   subject_optional_2: null,
+2025-07-22T18:33:12.093251694Z   subject_free_number: 5,
+2025-07-22T18:33:12.093254214Z   subject_free_weight: { ENG: 2, MAT: 1.5, MEP: 1.5, CHH: 1.5, GEO: 1.5, HIS: 1.5 },
+2025-07-22T18:33:12.093255994Z   subject_weight_limit: null,
+2025-07-22T18:33:12.093258174Z   score_uq: null,
+2025-07-22T18:33:12.093259884Z   score_md: 25,
+2025-07-22T18:33:12.093261594Z   score_lq: 23.5
+2025-07-22T18:33:12.093263264Z }
+2025-07-22T18:33:12.093267044Z Calculated total_score: 24
+2025-07-22T18:33:12.093268874Z Quartiles: UQ: null MD: 25 LQ: 23.5
+2025-07-22T18:33:12.093270575Z Final classification: 3
+2025-07-22T18:33:12.093274184Z Classification result for JS7302: 3 (Risky), Score: 24
+2025-07-22T18:33:12.093643532Z POST /api/programmes/programmes_2025/classify 200 65ms
+2025-07-22T18:33:12.093668603Z POST /api/programmes/programmes_2025/classify 200 64.681 ms - 138
+2025-07-22T18:33:12.296007394Z Slow query detected: POST /api/jupas-order/save - 284ms
+2025-07-22T18:33:12.296070225Z Query parameters: {
+2025-07-22T18:33:12.296082995Z   body: { programmeOrder: { JS7302: 0, JS7216: 1, JS7211: 2, JS7306: 3 } },
+2025-07-22T18:33:12.296101835Z   query: {},
+2025-07-22T18:33:12.296105096Z   params: {}
+2025-07-22T18:33:12.296107916Z }
+2025-07-22T18:33:12.296449492Z POST /api/jupas-order/save 200 285ms
+2025-07-22T18:33:12.296457483Z POST /api/jupas-order/save 200 284.686 ms - 117
+2025-07-22T18:33:12.709707601Z Classifying programme JS7215 with scores: {
+2025-07-22T18:33:12.709729821Z   CHI: '4',
+2025-07-22T18:33:12.709732061Z   ENG: '4',
+2025-07-22T18:33:12.709733931Z   MAT: '3',
+2025-07-22T18:33:12.709736251Z   CSD: 'Attained',
+2025-07-22T18:33:12.709737971Z   BAF_ACC: '3',
+2025-07-22T18:33:12.709739871Z   HIS: '3'
+2025-07-22T18:33:12.709741522Z }
+2025-07-22T18:33:12.711444667Z Classifying programme JS7306 with scores: {
+2025-07-22T18:33:12.711458857Z   CHI: '4',
+2025-07-22T18:33:12.711462297Z   ENG: '4',
+2025-07-22T18:33:12.711465097Z   MAT: '3',
+2025-07-22T18:33:12.711468597Z   CSD: 'Attained',
+2025-07-22T18:33:12.711471297Z   BAF_ACC: '3',
+2025-07-22T18:33:12.711473957Z   HIS: '3'
+2025-07-22T18:33:12.711476937Z }
+2025-07-22T18:33:12.712465598Z Classifying programme JS7211 with scores: {
+2025-07-22T18:33:12.712480748Z   CHI: '4',
+2025-07-22T18:33:12.712483958Z   ENG: '4',
+2025-07-22T18:33:12.712486738Z   MAT: '3',
+2025-07-22T18:33:12.712504259Z   CSD: 'Attained',
+2025-07-22T18:33:12.712507368Z   BAF_ACC: '3',
+2025-07-22T18:33:12.712510299Z   HIS: '3'
+2025-07-22T18:33:12.712513279Z }
+2025-07-22T18:33:12.713393237Z Classifying programme JS7302 with scores: {
+2025-07-22T18:33:12.713413437Z   CHI: '4',
+2025-07-22T18:33:12.713417947Z   ENG: '4',
+2025-07-22T18:33:12.713421167Z   MAT: '3',
+2025-07-22T18:33:12.713425287Z   CSD: 'Attained',
+2025-07-22T18:33:12.713428798Z   BAF_ACC: '3',
+2025-07-22T18:33:12.713431948Z   HIS: '3'
+2025-07-22T18:33:12.713435098Z }
+2025-07-22T18:33:12.714356647Z Classifying programme JS7216 with scores: {
+2025-07-22T18:33:12.714369137Z   CHI: '4',
+2025-07-22T18:33:12.714372057Z   ENG: '4',
+2025-07-22T18:33:12.714374997Z   MAT: '3',
+2025-07-22T18:33:12.714378077Z   CSD: 'Attained',
+2025-07-22T18:33:12.714380557Z   BAF_ACC: '3',
+2025-07-22T18:33:12.714383017Z   HIS: '3'
+2025-07-22T18:33:12.714385367Z }
+2025-07-22T18:33:12.789521216Z Classifying programme JS7213 with scores: {
+2025-07-22T18:33:12.789544647Z   CHI: '4',
+2025-07-22T18:33:12.789547416Z   ENG: '4',
+2025-07-22T18:33:12.789550117Z   MAT: '3',
+2025-07-22T18:33:12.789552807Z   CSD: 'Attained',
+2025-07-22T18:33:12.789555657Z   BAF_ACC: '3',
+2025-07-22T18:33:12.789558467Z   HIS: '3'
+2025-07-22T18:33:12.789560597Z }
+2025-07-22T18:33:12.791249812Z --- classifyProgramme() called ---
+2025-07-22T18:33:12.791267092Z User scores: {
+2025-07-22T18:33:12.791271622Z   CHI: '4',
+2025-07-22T18:33:12.791275012Z   ENG: '4',
+2025-07-22T18:33:12.791277982Z   MAT: '3',
+2025-07-22T18:33:12.791281762Z   CSD: 'Attained',
+2025-07-22T18:33:12.791285363Z   BAF_ACC: '3',
+2025-07-22T18:33:12.791288692Z   HIS: '3'
+2025-07-22T18:33:12.791292183Z }
+2025-07-22T18:33:12.791312013Z Programme requirements: {
+2025-07-22T18:33:12.791315833Z   requirement_compulsory: { ENG: 3, CHI: 3, MAT: 2 },
+2025-07-22T18:33:12.791318283Z   requirement_optional_1: { ELE: 2 },
+2025-07-22T18:33:12.791320753Z   requirement_optional_2: { ELE: 2 },
+2025-07-22T18:33:12.791323443Z   level_5_bonus: false,
+2025-07-22T18:33:12.791325923Z   subject_compulsory: null,
+2025-07-22T18:33:12.791328313Z   subject_optional_1: null,
+2025-07-22T18:33:12.791346944Z   subject_optional_2: null,
+2025-07-22T18:33:12.791350294Z   subject_free_number: 5,
+2025-07-22T18:33:12.791353034Z   subject_free_weight: { ENG: 2, MAT: 2, MEP: 1.5, BAF: 1.5 },
+2025-07-22T18:33:12.791355584Z   subject_weight_limit: null,
+2025-07-22T18:33:12.791358064Z   score_uq: null,
+2025-07-22T18:33:12.791361004Z   score_md: 23.5,
+2025-07-22T18:33:12.791363514Z   score_lq: 23
+2025-07-22T18:33:12.791366304Z }
+2025-07-22T18:33:12.791379964Z Calculated total_score: 25.5
+2025-07-22T18:33:12.791383045Z Quartiles: UQ: null MD: 23.5 LQ: 23
+2025-07-22T18:33:12.791385494Z Final classification: 5
+2025-07-22T18:33:12.791388105Z Classification result for JS7211: 5 (Safe), Score: 25.5
+2025-07-22T18:33:12.791889475Z POST /api/programmes/programmes_2025/classify 200 79ms
+2025-07-22T18:33:12.791935256Z POST /api/programmes/programmes_2025/classify 200 79.410 ms - 139
+2025-07-22T18:33:12.793375935Z --- classifyProgramme() called ---
+2025-07-22T18:33:12.793388076Z User scores: {
+2025-07-22T18:33:12.793391306Z   CHI: '4',
+2025-07-22T18:33:12.793393296Z   ENG: '4',
+2025-07-22T18:33:12.793394916Z   MAT: '3',
+2025-07-22T18:33:12.793396866Z   CSD: 'Attained',
+2025-07-22T18:33:12.793398646Z   BAF_ACC: '3',
+2025-07-22T18:33:12.793400526Z   HIS: '3'
+2025-07-22T18:33:12.793402256Z }
+2025-07-22T18:33:12.793409136Z Programme requirements: {
+2025-07-22T18:33:12.793411096Z   requirement_compulsory: { ENG: 3, CHI: 3, MAT: 2 },
+2025-07-22T18:33:12.793412876Z   requirement_optional_1: { ELE: 2 },
+2025-07-22T18:33:12.793414856Z   requirement_optional_2: { ELE: 2 },
+2025-07-22T18:33:12.793416506Z   level_5_bonus: false,
+2025-07-22T18:33:12.793418296Z   subject_compulsory: null,
+2025-07-22T18:33:12.793419966Z   subject_optional_1: null,
+2025-07-22T18:33:12.793421636Z   subject_optional_2: null,
+2025-07-22T18:33:12.793423376Z   subject_free_number: 5,
+2025-07-22T18:33:12.793425376Z   subject_free_weight: { ENG: 2, MAT: 1.5, MEP: 1.5 },
+2025-07-22T18:33:12.793429616Z   subject_weight_limit: null,
+2025-07-22T18:33:12.793431437Z   score_uq: null,
+2025-07-22T18:33:12.793433087Z   score_md: 23,
+2025-07-22T18:33:12.793434787Z   score_lq: 22.5
+2025-07-22T18:33:12.793436487Z }
+2025-07-22T18:33:12.793438247Z Calculated total_score: 22.5
+2025-07-22T18:33:12.793439987Z Quartiles: UQ: null MD: 23 LQ: 22.5
+2025-07-22T18:33:12.793441697Z Final classification: 3
+2025-07-22T18:33:12.793443427Z Classification result for JS7306: 3 (Risky), Score: 22.5
+2025-07-22T18:33:12.793843915Z POST /api/programmes/programmes_2025/classify 200 82ms
+2025-07-22T18:33:12.793848675Z POST /api/programmes/programmes_2025/classify 200 82.470 ms - 140
+2025-07-22T18:33:12.795507199Z --- classifyProgramme() called ---
+2025-07-22T18:33:12.79551561Z User scores: {
+2025-07-22T18:33:12.79551794Z   CHI: '4',
+2025-07-22T18:33:12.79551996Z   ENG: '4',
+2025-07-22T18:33:12.79552204Z   MAT: '3',
+2025-07-22T18:33:12.7955242Z   CSD: 'Attained',
+2025-07-22T18:33:12.79552644Z   BAF_ACC: '3',
+2025-07-22T18:33:12.79552858Z   HIS: '3'
+2025-07-22T18:33:12.79553066Z }
+2025-07-22T18:33:12.79553609Z Programme requirements: {
+2025-07-22T18:33:12.79553838Z   requirement_compulsory: { ENG: 3, CHI: 3, MAT: 2 },
+2025-07-22T18:33:12.79554047Z   requirement_optional_1: { ELE: 2 },
+2025-07-22T18:33:12.79554277Z   requirement_optional_2: { ELE: 2 },
+2025-07-22T18:33:12.79554493Z   level_5_bonus: false,
+2025-07-22T18:33:12.79554705Z   subject_compulsory: null,
+2025-07-22T18:33:12.79554912Z   subject_optional_1: null,
+2025-07-22T18:33:12.79555119Z   subject_optional_2: null,
+2025-07-22T18:33:12.795563861Z   subject_free_number: 5,
+2025-07-22T18:33:12.795566671Z   subject_free_weight: { ENG: 2, MAT: 2, MEP: 1.5, BAF: 1.5, ECO: 1.5, ICT: 1.5 },
+2025-07-22T18:33:12.795568841Z   subject_weight_limit: null,
+2025-07-22T18:33:12.795570881Z   score_uq: null,
+2025-07-22T18:33:12.795572981Z   score_md: 23.5,
+2025-07-22T18:33:12.795577811Z   score_lq: 23
+2025-07-22T18:33:12.795579961Z }
+2025-07-22T18:33:12.795603752Z Calculated total_score: 25.5
+2025-07-22T18:33:12.795611862Z Quartiles: UQ: null MD: 23.5 LQ: 23
+2025-07-22T18:33:12.795615492Z Final classification: 5
+2025-07-22T18:33:12.795618112Z Classification result for JS7215: 5 (Safe), Score: 25.5
+2025-07-22T18:33:12.795963499Z POST /api/programmes/programmes_2025/classify 200 86ms
+2025-07-22T18:33:12.795968489Z POST /api/programmes/programmes_2025/classify 200 86.510 ms - 139
+2025-07-22T18:33:12.797507231Z Classifying programme JS7306 with scores: {
+2025-07-22T18:33:12.797521211Z   CHI: '4',
+2025-07-22T18:33:12.797523951Z   ENG: '4',
+2025-07-22T18:33:12.797526071Z   MAT: '3',
+2025-07-22T18:33:12.797529271Z   CSD: 'Attained',
+2025-07-22T18:33:12.797531431Z   BAF_ACC: '3',
+2025-07-22T18:33:12.797533611Z   HIS: '3'
+2025-07-22T18:33:12.797535681Z }
+2025-07-22T18:33:12.798277627Z --- classifyProgramme() called ---
+2025-07-22T18:33:12.798288257Z User scores: {
+2025-07-22T18:33:12.798292677Z   CHI: '4',
+2025-07-22T18:33:12.798296577Z   ENG: '4',
+2025-07-22T18:33:12.798299787Z   MAT: '3',
+2025-07-22T18:33:12.798303297Z   CSD: 'Attained',
+2025-07-22T18:33:12.798306997Z   BAF_ACC: '3',
+2025-07-22T18:33:12.798310127Z   HIS: '3'
+2025-07-22T18:33:12.798313727Z }
+2025-07-22T18:33:12.798321877Z Programme requirements: {
+2025-07-22T18:33:12.798324168Z   requirement_compulsory: { ENG: 3, CHI: 3, MAT: 2 },
+2025-07-22T18:33:12.798326297Z   requirement_optional_1: { ELE: 2 },
+2025-07-22T18:33:12.798328488Z   requirement_optional_2: { ELE: 2 },
+2025-07-22T18:33:12.798330968Z   level_5_bonus: false,
+2025-07-22T18:33:12.798333068Z   subject_compulsory: null,
+2025-07-22T18:33:12.798335118Z   subject_optional_1: null,
+2025-07-22T18:33:12.798337228Z   subject_optional_2: null,
+2025-07-22T18:33:12.798340268Z   subject_free_number: 5,
+2025-07-22T18:33:12.798342478Z   subject_free_weight: { ENG: 2, MAT: 1.5, MEP: 1.5, CHH: 1.5, GEO: 1.5, HIS: 1.5 },
+2025-07-22T18:33:12.798344528Z   subject_weight_limit: null,
+2025-07-22T18:33:12.798346568Z   score_uq: null,
+2025-07-22T18:33:12.798349418Z   score_md: 25,
+2025-07-22T18:33:12.798352308Z   score_lq: 23.5
+2025-07-22T18:33:12.798355228Z }
+2025-07-22T18:33:12.798370538Z Calculated total_score: 24
+2025-07-22T18:33:12.798377049Z Quartiles: UQ: null MD: 25 LQ: 23.5
+2025-07-22T18:33:12.798380309Z Final classification: 3
+2025-07-22T18:33:12.798388379Z Classification result for JS7302: 3 (Risky), Score: 24
+2025-07-22T18:33:12.798866349Z POST /api/programmes/programmes_2025/classify 200 85ms
+2025-07-22T18:33:12.79892645Z POST /api/programmes/programmes_2025/classify 200 85.503 ms - 138
+2025-07-22T18:33:12.799826959Z --- classifyProgramme() called ---
+2025-07-22T18:33:12.799851789Z User scores: {
+2025-07-22T18:33:12.799857209Z   CHI: '4',
+2025-07-22T18:33:12.799859459Z   ENG: '4',
+2025-07-22T18:33:12.799861489Z   MAT: '3',
+2025-07-22T18:33:12.799863669Z   CSD: 'Attained',
+2025-07-22T18:33:12.799866049Z   BAF_ACC: '3',
+2025-07-22T18:33:12.799868129Z   HIS: '3'
+2025-07-22T18:33:12.799870219Z }
+2025-07-22T18:33:12.7998754Z Programme requirements: {
+2025-07-22T18:33:12.79989012Z   requirement_compulsory: { ENG: 3, CHI: 3, MAT: 2 },
+2025-07-22T18:33:12.79989248Z   requirement_optional_1: { ELE: 2 },
+2025-07-22T18:33:12.79989455Z   requirement_optional_2: { ELE: 2 },
+2025-07-22T18:33:12.7998967Z   level_5_bonus: false,
+2025-07-22T18:33:12.79989884Z   subject_compulsory: null,
+2025-07-22T18:33:12.79990091Z   subject_optional_1: null,
+2025-07-22T18:33:12.79990299Z   subject_optional_2: null,
+2025-07-22T18:33:12.79990505Z   subject_free_number: 5,
+2025-07-22T18:33:12.79990767Z   subject_free_weight: { ENG: 2, MAT: 2, MEP: 2, ECO: 1.5, ICT: 1.5 },
+2025-07-22T18:33:12.79990984Z   subject_weight_limit: null,
+2025-07-22T18:33:12.79991213Z   score_uq: null,
+2025-07-22T18:33:12.79991424Z   score_md: 23.5,
+2025-07-22T18:33:12.79991636Z   score_lq: 23
+2025-07-22T18:33:12.79991846Z }
+2025-07-22T18:33:12.79992457Z Calculated total_score: 24
+2025-07-22T18:33:12.79992687Z Quartiles: UQ: null MD: 23.5 LQ: 23
+2025-07-22T18:33:12.79992897Z Final classification: 4
+2025-07-22T18:33:12.799931321Z Classification result for JS7216: 4 (Moderate), Score: 24
+2025-07-22T18:33:12.800301868Z POST /api/programmes/programmes_2025/classify 200 86ms
+2025-07-22T18:33:12.800319189Z POST /api/programmes/programmes_2025/classify 200 85.984 ms - 141
+2025-07-22T18:33:12.801783219Z Classifying programme JS7216 with scores: {
+2025-07-22T18:33:12.801791329Z   CHI: '4',
+2025-07-22T18:33:12.801793269Z   ENG: '4',
+2025-07-22T18:33:12.801795009Z   MAT: '3',
+2025-07-22T18:33:12.801797239Z   CSD: 'Attained',
+2025-07-22T18:33:12.801798939Z   BAF_ACC: '3',
+2025-07-22T18:33:12.801800609Z   HIS: '3'
+2025-07-22T18:33:12.801802239Z }
+2025-07-22T18:33:12.80427708Z Classifying programme JS7211 with scores: {
+2025-07-22T18:33:12.80428544Z   CHI: '4',
+2025-07-22T18:33:12.804287871Z   ENG: '4',
+2025-07-22T18:33:12.80428988Z   MAT: '3',
+2025-07-22T18:33:12.804292171Z   CSD: 'Attained',
+2025-07-22T18:33:12.80429432Z   BAF_ACC: '3',
+2025-07-22T18:33:12.8042964Z   HIS: '3'
+2025-07-22T18:33:12.804298531Z }
+2025-07-22T18:33:12.807274742Z Classifying programme JS7211 with scores: {
+2025-07-22T18:33:12.807290632Z   CHI: '4',
+2025-07-22T18:33:12.807293232Z   ENG: '4',
+2025-07-22T18:33:12.807295472Z   MAT: '3',
+2025-07-22T18:33:12.807298022Z   CSD: 'Attained',
+2025-07-22T18:33:12.807300193Z   BAF_ACC: '3',
+2025-07-22T18:33:12.807302333Z   HIS: '3'
+2025-07-22T18:33:12.807304482Z }
+2025-07-22T18:33:12.809980048Z Classifying programme JS7306 with scores: {
+2025-07-22T18:33:12.809990018Z   CHI: '4',
+2025-07-22T18:33:12.809992428Z   ENG: '4',
+2025-07-22T18:33:12.809994088Z   MAT: '3',
+2025-07-22T18:33:12.809996108Z   CSD: 'Attained',
+2025-07-22T18:33:12.809997798Z   BAF_ACC: '3',
+2025-07-22T18:33:12.809999478Z   HIS: '3'
+2025-07-22T18:33:12.810001118Z }
+2025-07-22T18:33:12.810737883Z Classifying programme JS7306 with scores: {
+2025-07-22T18:33:12.810747993Z   CHI: '4',
+2025-07-22T18:33:12.810750474Z   ENG: '4',
+2025-07-22T18:33:12.810752484Z   MAT: '3',
+2025-07-22T18:33:12.810755374Z   CSD: 'Attained',
+2025-07-22T18:33:12.810757734Z   BAF_ACC: '3',
+2025-07-22T18:33:12.810759774Z   HIS: '3'
+2025-07-22T18:33:12.810762024Z }
+2025-07-22T18:33:12.828695994Z --- classifyProgramme() called ---
+2025-07-22T18:33:12.828711984Z User scores: {
+2025-07-22T18:33:12.828715154Z   CHI: '4',
+2025-07-22T18:33:12.828718254Z   ENG: '4',
+2025-07-22T18:33:12.828721134Z   MAT: '3',
+2025-07-22T18:33:12.828724074Z   CSD: 'Attained',
+2025-07-22T18:33:12.828744595Z   BAF_ACC: '3',
+2025-07-22T18:33:12.828746835Z   HIS: '3'
+2025-07-22T18:33:12.828748535Z }
+2025-07-22T18:33:12.828756985Z Programme requirements: {
+2025-07-22T18:33:12.828759335Z   requirement_compulsory: { ENG: 3, CHI: 3, MAT: 2 },
+2025-07-22T18:33:12.828761015Z   requirement_optional_1: { ELE: 2 },
+2025-07-22T18:33:12.828762685Z   requirement_optional_2: { ELE: 2 },
+2025-07-22T18:33:12.828764425Z   level_5_bonus: false,
+2025-07-22T18:33:12.828766165Z   subject_compulsory: null,
+2025-07-22T18:33:12.828767815Z   subject_optional_1: null,
+2025-07-22T18:33:12.828769445Z   subject_optional_2: null,
+2025-07-22T18:33:12.828771055Z   subject_free_number: 5,
+2025-07-22T18:33:12.828772855Z   subject_free_weight: { ENG: 2, MAT: 2, MEP: 1.5, BAF: 1.5, ECO: 1.5, ICT: 1.5 },
+2025-07-22T18:33:12.828774565Z   subject_weight_limit: null,
+2025-07-22T18:33:12.828776205Z   score_uq: null,
+2025-07-22T18:33:12.828777955Z   score_md: 23.5,
+2025-07-22T18:33:12.828779635Z   score_lq: 23
+2025-07-22T18:33:12.828781305Z }
+2025-07-22T18:33:12.828783055Z Calculated total_score: 25.5
+2025-07-22T18:33:12.828792136Z Quartiles: UQ: null MD: 23.5 LQ: 23
+2025-07-22T18:33:12.828799316Z Final classification: 5
+2025-07-22T18:33:12.828801796Z Classification result for JS7213: 5 (Safe), Score: 25.5
+2025-07-22T18:33:12.82949761Z POST /api/programmes/programmes_2025/classify 200 40ms
+2025-07-22T18:33:12.82952236Z POST /api/programmes/programmes_2025/classify 200 40.020 ms - 139
+2025-07-22T18:33:12.883593805Z --- classifyProgramme() called ---
+2025-07-22T18:33:12.883614286Z User scores: {
+2025-07-22T18:33:12.883617455Z   CHI: '4',
+2025-07-22T18:33:12.883620096Z   ENG: '4',
+2025-07-22T18:33:12.883622676Z   MAT: '3',
+2025-07-22T18:33:12.883625686Z   CSD: 'Attained',
+2025-07-22T18:33:12.883628146Z   BAF_ACC: '3',
+2025-07-22T18:33:12.883630556Z   HIS: '3'
+2025-07-22T18:33:12.883633066Z }
+2025-07-22T18:33:12.883643636Z Programme requirements: {
+2025-07-22T18:33:12.883647816Z   requirement_compulsory: { ENG: 3, CHI: 3, MAT: 2 },
+2025-07-22T18:33:12.883650376Z   requirement_optional_1: { ELE: 2 },
+2025-07-22T18:33:12.883652706Z   requirement_optional_2: { ELE: 2 },
+2025-07-22T18:33:12.883655646Z   level_5_bonus: false,
+2025-07-22T18:33:12.883658116Z   subject_compulsory: null,
+2025-07-22T18:33:12.883660536Z   subject_optional_1: null,
+2025-07-22T18:33:12.883662836Z   subject_optional_2: null,
+2025-07-22T18:33:12.883669077Z   subject_free_number: 5,
+2025-07-22T18:33:12.883671707Z   subject_free_weight: { ENG: 2, MAT: 1.5, MEP: 1.5 },
+2025-07-22T18:33:12.883674287Z   subject_weight_limit: null,
+2025-07-22T18:33:12.883676737Z   score_uq: null,
+2025-07-22T18:33:12.883679407Z   score_md: 23,
+2025-07-22T18:33:12.883681787Z   score_lq: 22.5
+2025-07-22T18:33:12.883684337Z }
+2025-07-22T18:33:12.883686847Z Calculated total_score: 22.5
+2025-07-22T18:33:12.883689507Z Quartiles: UQ: null MD: 23 LQ: 22.5
+2025-07-22T18:33:12.883692157Z Final classification: 3
+2025-07-22T18:33:12.883694867Z Classification result for JS7306: 3 (Risky), Score: 22.5
+2025-07-22T18:33:12.88433607Z POST /api/programmes/programmes_2025/classify 200 87ms
+2025-07-22T18:33:12.884365771Z POST /api/programmes/programmes_2025/classify 200 86.720 ms - 140
+2025-07-22T18:33:12.91876335Z --- classifyProgramme() called ---
+2025-07-22T18:33:12.9187798Z User scores: {
+2025-07-22T18:33:12.918782931Z   CHI: '4',
+2025-07-22T18:33:12.918786451Z   ENG: '4',
+2025-07-22T18:33:12.918789211Z   MAT: '3',
+2025-07-22T18:33:12.918792611Z   CSD: 'Attained',
+2025-07-22T18:33:12.918809781Z   BAF_ACC: '3',
+2025-07-22T18:33:12.918812791Z   HIS: '3'
+2025-07-22T18:33:12.918815541Z }
+2025-07-22T18:33:12.918830741Z Programme requirements: {
+2025-07-22T18:33:12.918833341Z   requirement_compulsory: { ENG: 3, CHI: 3, MAT: 2 },
+2025-07-22T18:33:12.918835092Z   requirement_optional_1: { ELE: 2 },
+2025-07-22T18:33:12.918836781Z   requirement_optional_2: { ELE: 2 },
+2025-07-22T18:33:12.918838422Z   level_5_bonus: false,
+2025-07-22T18:33:12.918840062Z   subject_compulsory: null,
+2025-07-22T18:33:12.918841702Z   subject_optional_1: null,
+2025-07-22T18:33:12.918843412Z   subject_optional_2: null,
+2025-07-22T18:33:12.918845212Z   subject_free_number: 5,
+2025-07-22T18:33:12.918847372Z   subject_free_weight: { ENG: 2, MAT: 2, MEP: 2, ECO: 1.5, ICT: 1.5 },
+2025-07-22T18:33:12.918848992Z   subject_weight_limit: null,
+2025-07-22T18:33:12.918850612Z   score_uq: null,
+2025-07-22T18:33:12.918852242Z   score_md: 23.5,
+2025-07-22T18:33:12.918853882Z   score_lq: 23
+2025-07-22T18:33:12.918855692Z }
+2025-07-22T18:33:12.918857362Z Calculated total_score: 24
+2025-07-22T18:33:12.918859052Z Quartiles: UQ: null MD: 23.5 LQ: 23
+2025-07-22T18:33:12.918860702Z Final classification: 4
+2025-07-22T18:33:12.918862442Z Classification result for JS7216: 4 (Moderate), Score: 24
+2025-07-22T18:33:12.919399523Z POST /api/programmes/programmes_2025/classify 200 118ms
+2025-07-22T18:33:12.919417433Z POST /api/programmes/programmes_2025/classify 200 117.540 ms - 141
+2025-07-22T18:33:12.921501276Z --- classifyProgramme() called ---
+2025-07-22T18:33:12.921518407Z User scores: {
+2025-07-22T18:33:12.921521917Z   CHI: '4',
+2025-07-22T18:33:12.921524617Z   ENG: '4',
+2025-07-22T18:33:12.921527047Z   MAT: '3',
+2025-07-22T18:33:12.921530237Z   CSD: 'Attained',
+2025-07-22T18:33:12.921536817Z   BAF_ACC: '3',
+2025-07-22T18:33:12.921539747Z   HIS: '3'
+2025-07-22T18:33:12.921542537Z }
+2025-07-22T18:33:12.921550197Z Programme requirements: {
+2025-07-22T18:33:12.921553778Z   requirement_compulsory: { ENG: 3, CHI: 3, MAT: 2 },
+2025-07-22T18:33:12.921556408Z   requirement_optional_1: { ELE: 2 },
+2025-07-22T18:33:12.921558948Z   requirement_optional_2: { ELE: 2 },
+2025-07-22T18:33:12.921561548Z   level_5_bonus: false,
+2025-07-22T18:33:12.921564338Z   subject_compulsory: null,
+2025-07-22T18:33:12.921567118Z   subject_optional_1: null,
+2025-07-22T18:33:12.921570298Z   subject_optional_2: null,
+2025-07-22T18:33:12.921572778Z   subject_free_number: 5,
+2025-07-22T18:33:12.921574418Z   subject_free_weight: { ENG: 2, MAT: 2, MEP: 1.5, BAF: 1.5 },
+2025-07-22T18:33:12.921576138Z   subject_weight_limit: null,
+2025-07-22T18:33:12.921577818Z   score_uq: null,
+2025-07-22T18:33:12.921579508Z   score_md: 23.5,
+2025-07-22T18:33:12.921581258Z   score_lq: 23
+2025-07-22T18:33:12.921582938Z }
+2025-07-22T18:33:12.921593469Z Calculated total_score: 25.5
+2025-07-22T18:33:12.921597658Z Quartiles: UQ: null MD: 23.5 LQ: 23
+2025-07-22T18:33:12.921599438Z Final classification: 5
+2025-07-22T18:33:12.921601249Z Classification result for JS7211: 5 (Safe), Score: 25.5
+2025-07-22T18:33:12.922022257Z POST /api/programmes/programmes_2025/classify 200 115ms
+2025-07-22T18:33:12.922058118Z POST /api/programmes/programmes_2025/classify 200 114.772 ms - 139
+2025-07-22T18:33:12.923269593Z --- classifyProgramme() called ---
+2025-07-22T18:33:12.923286813Z User scores: {
+2025-07-22T18:33:12.923290173Z   CHI: '4',
+2025-07-22T18:33:12.923293113Z   ENG: '4',
+2025-07-22T18:33:12.923295924Z   MAT: '3',
+2025-07-22T18:33:12.923299184Z   CSD: 'Attained',
+2025-07-22T18:33:12.923314264Z   BAF_ACC: '3',
+2025-07-22T18:33:12.923317264Z   HIS: '3'
+2025-07-22T18:33:12.923320034Z }
+2025-07-22T18:33:12.923329524Z Programme requirements: {
+2025-07-22T18:33:12.923335324Z   requirement_compulsory: { ENG: 3, CHI: 3, MAT: 2 },
+2025-07-22T18:33:12.923339244Z   requirement_optional_1: { ELE: 2 },
+2025-07-22T18:33:12.923341514Z   requirement_optional_2: { ELE: 2 },
+2025-07-22T18:33:12.923343785Z   level_5_bonus: false,
+2025-07-22T18:33:12.923345994Z   subject_compulsory: null,
+2025-07-22T18:33:12.923348794Z   subject_optional_1: null,
+2025-07-22T18:33:12.923351085Z   subject_optional_2: null,
+2025-07-22T18:33:12.923353585Z   subject_free_number: 5,
+2025-07-22T18:33:12.923355975Z   subject_free_weight: { ENG: 2, MAT: 2, MEP: 1.5, BAF: 1.5 },
+2025-07-22T18:33:12.923358305Z   subject_weight_limit: null,
+2025-07-22T18:33:12.923360575Z   score_uq: null,
+2025-07-22T18:33:12.923362875Z   score_md: 23.5,
+2025-07-22T18:33:12.923365465Z   score_lq: 23
+2025-07-22T18:33:12.923367755Z }
+2025-07-22T18:33:12.923370015Z Calculated total_score: 25.5
+2025-07-22T18:33:12.923372345Z Quartiles: UQ: null MD: 23.5 LQ: 23
+2025-07-22T18:33:12.923374685Z Final classification: 5
+2025-07-22T18:33:12.923377255Z Classification result for JS7211: 5 (Safe), Score: 25.5
+2025-07-22T18:33:12.923739153Z POST /api/programmes/programmes_2025/classify 200 120ms
+2025-07-22T18:33:12.923751423Z POST /api/programmes/programmes_2025/classify 200 119.477 ms - 139
+2025-07-22T18:33:12.951715569Z --- classifyProgramme() called ---
+2025-07-22T18:33:12.95172967Z User scores: {
+2025-07-22T18:33:12.95173189Z   CHI: '4',
+2025-07-22T18:33:12.95173382Z   ENG: '4',
+2025-07-22T18:33:12.9517355Z   MAT: '3',
+2025-07-22T18:33:12.95173794Z   CSD: 'Attained',
+2025-07-22T18:33:12.95173968Z   BAF_ACC: '3',
+2025-07-22T18:33:12.95174137Z   HIS: '3'
+2025-07-22T18:33:12.9517431Z }
+2025-07-22T18:33:12.95175318Z Programme requirements: {
+2025-07-22T18:33:12.95176174Z   requirement_compulsory: { ENG: 3, CHI: 3, MAT: 2 },
+2025-07-22T18:33:12.95176472Z   requirement_optional_1: { ELE: 2 },
+2025-07-22T18:33:12.95176641Z   requirement_optional_2: { ELE: 2 },
+2025-07-22T18:33:12.95176879Z   level_5_bonus: false,
+2025-07-22T18:33:12.95177056Z   subject_compulsory: null,
+2025-07-22T18:33:12.951772251Z   subject_optional_1: null,
+2025-07-22T18:33:12.951774131Z   subject_optional_2: null,
+2025-07-22T18:33:12.951775771Z   subject_free_number: 5,
+2025-07-22T18:33:12.95177752Z   subject_free_weight: { ENG: 2, MAT: 1.5, MEP: 1.5 },
+2025-07-22T18:33:12.951779151Z   subject_weight_limit: null,
+2025-07-22T18:33:12.951780761Z   score_uq: null,
+2025-07-22T18:33:12.951782461Z   score_md: 23,
+2025-07-22T18:33:12.951784171Z   score_lq: 22.5
+2025-07-22T18:33:12.951785821Z }
+2025-07-22T18:33:12.951787591Z Calculated total_score: 22.5
+2025-07-22T18:33:12.951789381Z Quartiles: UQ: null MD: 23 LQ: 22.5
+2025-07-22T18:33:12.951791081Z Final classification: 3
+2025-07-22T18:33:12.951803301Z Classification result for JS7306: 3 (Risky), Score: 22.5
+2025-07-22T18:33:12.952426704Z POST /api/programmes/programmes_2025/classify 200 143ms
+2025-07-22T18:33:12.952437754Z POST /api/programmes/programmes_2025/classify 200 142.270 ms - 140
+2025-07-22T18:33:12.987704681Z --- classifyProgramme() called ---
+2025-07-22T18:33:12.987725901Z User scores: {
+2025-07-22T18:33:12.987729332Z   CHI: '4',
+2025-07-22T18:33:12.987731942Z   ENG: '4',
+2025-07-22T18:33:12.987734092Z   MAT: '3',
+2025-07-22T18:33:12.987736852Z   CSD: 'Attained',
+2025-07-22T18:33:12.987750672Z   BAF_ACC: '3',
+2025-07-22T18:33:12.987753082Z   HIS: '3'
+2025-07-22T18:33:12.987755212Z }
+2025-07-22T18:33:12.987764572Z Programme requirements: {
+2025-07-22T18:33:12.987767582Z   requirement_compulsory: { ENG: 3, CHI: 3, MAT: 2 },
+2025-07-22T18:33:12.987769733Z   requirement_optional_1: { ELE: 2 },
+2025-07-22T18:33:12.987771842Z   requirement_optional_2: { ELE: 2 },
+2025-07-22T18:33:12.987773922Z   level_5_bonus: false,
+2025-07-22T18:33:12.987776063Z   subject_compulsory: null,
+2025-07-22T18:33:12.987778133Z   subject_optional_1: null,
+2025-07-22T18:33:12.987780153Z   subject_optional_2: null,
+2025-07-22T18:33:12.987782223Z   subject_free_number: 5,
+2025-07-22T18:33:12.987784293Z   subject_free_weight: { ENG: 2, MAT: 1.5, MEP: 1.5 },
+2025-07-22T18:33:12.987786343Z   subject_weight_limit: null,
+2025-07-22T18:33:12.987788383Z   score_uq: null,
+2025-07-22T18:33:12.987790543Z   score_md: 23,
+2025-07-22T18:33:12.987792633Z   score_lq: 22.5
+2025-07-22T18:33:12.987794703Z }
+2025-07-22T18:33:12.987796793Z Calculated total_score: 22.5
+2025-07-22T18:33:12.987799293Z Quartiles: UQ: null MD: 23 LQ: 22.5
+2025-07-22T18:33:12.987828054Z Final classification: 3
+2025-07-22T18:33:12.987838524Z Classification result for JS7306: 3 (Risky), Score: 22.5
+2025-07-22T18:33:12.988561739Z POST /api/programmes/programmes_2025/classify 200 178ms
+2025-07-22T18:33:12.988572689Z POST /api/programmes/programmes_2025/classify 200 177.638 ms - 140
+2025-07-22T18:33:13.232866074Z Slow query detected: POST /api/jupas-order/save - 430ms
+2025-07-22T18:33:13.232890605Z Query parameters: {
+2025-07-22T18:33:13.232894805Z   body: { programmeOrder: { JS7216: 0, JS7211: 1, JS7306: 2 } },
+2025-07-22T18:33:13.232898075Z   query: {},
+2025-07-22T18:33:13.232901045Z   params: {}
+2025-07-22T18:33:13.232904105Z }
+2025-07-22T18:33:13.288237516Z POST /api/jupas-order/save 200 486ms
+2025-07-22T18:33:13.288254736Z POST /api/jupas-order/save 200 430.410 ms - 106
+2025-07-22T18:33:13.616962802Z Slow query detected: POST /api/jupas-order/save - 805ms
+2025-07-22T18:33:13.617116155Z Query parameters: { body: { programmeOrder: {} }, query: {}, params: {} }
+2025-07-22T18:33:13.617704757Z POST /api/jupas-order/save 200 806ms
+2025-07-22T18:33:13.617714367Z POST /api/jupas-order/save 200 806.141 ms - 74
+2025-07-22T18:33:13.722086918Z --- classifyProgramme() called ---
+2025-07-22T18:33:13.722108169Z User scores: {
+2025-07-22T18:33:13.722111119Z   CHI: '4',
+2025-07-22T18:33:13.722113989Z   ENG: '4',
+2025-07-22T18:33:13.722116519Z   MAT: '3',
+2025-07-22T18:33:13.722119449Z   CSD: 'Attained',
+2025-07-22T18:33:13.722122289Z   BAF_ACC: '3',
+2025-07-22T18:33:13.722124889Z   HIS: '3'
+2025-07-22T18:33:13.722127389Z }
+2025-07-22T18:33:13.72214395Z Programme requirements: {
+2025-07-22T18:33:13.72214748Z   requirement_compulsory: { ENG: 3, CHI: 3, MAT: 2 },
+2025-07-22T18:33:13.72214989Z   requirement_optional_1: { ELE: 2 },
+2025-07-22T18:33:13.72215235Z   requirement_optional_2: { ELE: 2 },
+2025-07-22T18:33:13.72215504Z   level_5_bonus: false,
+2025-07-22T18:33:13.72215778Z   subject_compulsory: null,
+2025-07-22T18:33:13.72216001Z   subject_optional_1: null,
+2025-07-22T18:33:13.72216221Z   subject_optional_2: null,
+2025-07-22T18:33:13.72216451Z   subject_free_number: 5,
+2025-07-22T18:33:13.7221667Z   subject_free_weight: { ENG: 2, MAT: 2, MEP: 1.5, BAF: 1.5 },
+2025-07-22T18:33:13.72216892Z   subject_weight_limit: null,
+2025-07-22T18:33:13.72217509Z   score_uq: null,
+2025-07-22T18:33:13.72217756Z   score_md: 23.5,
+2025-07-22T18:33:13.722192951Z   score_lq: 23
+2025-07-22T18:33:13.722198271Z }
+2025-07-22T18:33:13.722203671Z Calculated total_score: 25.5
+2025-07-22T18:33:13.722206251Z Quartiles: UQ: null MD: 23.5 LQ: 23
+2025-07-22T18:33:13.722208631Z Final classification: 5
+2025-07-22T18:33:13.722220171Z Classification result for JS7211: 5 (Safe), Score: 25.5
+2025-07-22T18:33:13.722477217Z Slow query detected: POST /api/programmes/programmes_2025/classify - 1680ms
+2025-07-22T18:33:13.722485997Z Query parameters: {
+2025-07-22T18:33:13.722488937Z   body: {
+2025-07-22T18:33:13.722492027Z     programmeCode: 'JS7211',
+2025-07-22T18:33:13.722494257Z     userScores: {
+2025-07-22T18:33:13.722496817Z       CHI: '4',
+2025-07-22T18:33:13.722499287Z       ENG: '4',
+2025-07-22T18:33:13.722502077Z       MAT: '3',
+2025-07-22T18:33:13.722504647Z       CSD: 'Attained',
+2025-07-22T18:33:13.722507197Z       BAF_ACC: '3',
+2025-07-22T18:33:13.722509717Z       HIS: '3'
+2025-07-22T18:33:13.722512237Z     }
+2025-07-22T18:33:13.722515007Z   },
+2025-07-22T18:33:13.722517687Z   query: {},
+2025-07-22T18:33:13.722520667Z   params: { collection: 'programmes_2025' }
+2025-07-22T18:33:13.722523378Z }
+2025-07-22T18:33:13.722942286Z POST /api/programmes/programmes_2025/classify 200 1680ms
+2025-07-22T18:33:13.722952976Z POST /api/programmes/programmes_2025/classify 200 1680.030 ms - 139
+2025-07-22T18:33:13.881183918Z Slow query detected: POST /api/jupas-order/save - 1076ms
+2025-07-22T18:33:13.881204368Z Query parameters: { body: { programmeOrder: { JS7306: 0 } }, query: {}, params: {} }
+2025-07-22T18:33:13.881553776Z POST /api/jupas-order/save 200 1076ms
+2025-07-22T18:33:13.881564456Z POST /api/jupas-order/save 200 1076.023 ms - 84
+2025-07-22T18:33:14.026107755Z Slow query detected: POST /api/jupas-order/save - 1217ms
+2025-07-22T18:33:14.026165866Z Query parameters: {
+2025-07-22T18:33:14.026170237Z   body: { programmeOrder: { JS7211: 0, JS7306: 1 } },
+2025-07-22T18:33:14.026172217Z   query: {},
+2025-07-22T18:33:14.026174006Z   params: {}
+2025-07-22T18:33:14.026175817Z }
+2025-07-22T18:33:14.026683837Z POST /api/jupas-order/save 200 1218ms
+2025-07-22T18:33:14.026698287Z POST /api/jupas-order/save 200 1217.866 ms - 95
+2025-07-22T18:33:15.92227351Z Finding top 6 programmes starting from classification level 7 and scores: {
+2025-07-22T18:33:15.922305321Z   CHI: '4',
+2025-07-22T18:33:15.922309961Z   ENG: '4',
+2025-07-22T18:33:15.922313571Z   MAT: '3',
+2025-07-22T18:33:15.922317441Z   CSD: 'Attained',
+2025-07-22T18:33:15.922320811Z   BAF_ACC: '3',
+2025-07-22T18:33:15.922324001Z   HIS: '3'
+2025-07-22T18:33:15.922327191Z }
+2025-07-22T18:33:15.922331191Z Loaded 417 programmes from memory for filtering
+2025-07-22T18:33:15.922365262Z Found 392 programmes with classification data in memory
+2025-07-22T18:33:15.922374822Z Found 392 programmes with classification data
+2025-07-22T18:33:15.922612927Z Filtered programmes by institutions: Lingnan University. Found 22 programmes out of 392
+2025-07-22T18:33:15.995462289Z Found programmes in classification levels: 0, 1, 2, 3, 4, 5
+2025-07-22T18:33:15.995479939Z Checking classification levels in ascending order (target 7 and higher): 
+2025-07-22T18:33:15.995482619Z Found 0 programmes across 0 classification levels () out of 22 total (processed 22 programmes)
+2025-07-22T18:33:15.996089122Z POST /api/programmes/programmes_2025/recommendations/7 200 74ms
+2025-07-22T18:33:15.996110392Z POST /api/programmes/programmes_2025/recommendations/7 200 74.036 ms - 333
+2025-07-22T18:33:18.643158065Z Finding top 6 programmes starting from classification level 5 and scores: {
+2025-07-22T18:33:18.643211396Z   CHI: '4',
+2025-07-22T18:33:18.643216306Z   ENG: '4',
+2025-07-22T18:33:18.643219626Z   MAT: '3',
+2025-07-22T18:33:18.643223786Z   CSD: 'Attained',
+2025-07-22T18:33:18.643227496Z   BAF_ACC: '3',
+2025-07-22T18:33:18.643230986Z   HIS: '3'
+2025-07-22T18:33:18.643234176Z }
+2025-07-22T18:33:18.643238026Z Loaded 417 programmes from memory for filtering
+2025-07-22T18:33:18.643270107Z Found 392 programmes with classification data in memory
+2025-07-22T18:33:18.643278807Z Found 392 programmes with classification data
+2025-07-22T18:33:18.643463171Z Filtered programmes by institutions: Lingnan University. Found 22 programmes out of 392
+2025-07-22T18:33:18.717239672Z Found programmes in classification levels: 0, 1, 2, 3, 4, 5
+2025-07-22T18:33:18.717271252Z Checking classification levels in ascending order (target 5 and higher): 5
+2025-07-22T18:33:18.717274522Z Adding 4 programmes from classification level 5 (Safe)
+2025-07-22T18:33:18.717284893Z Found 4 programmes across 1 classification levels (5) out of 22 total (processed 22 programmes)
+2025-07-22T18:33:18.719327125Z POST /api/programmes/programmes_2025/recommendations/5 200 77ms
+2025-07-22T18:33:18.719345095Z POST /api/programmes/programmes_2025/recommendations/5 200 74.966 ms - -
+2025-07-22T18:33:22.337796461Z Classifying programme JS7211 with scores: {
+2025-07-22T18:33:22.337824361Z   CHI: '4',
+2025-07-22T18:33:22.337827081Z   ENG: '4',
+2025-07-22T18:33:22.337829201Z   MAT: '3',
+2025-07-22T18:33:22.337832051Z   CSD: 'Attained',
+2025-07-22T18:33:22.337834502Z   BAF_ACC: '3',
+2025-07-22T18:33:22.337836762Z   HIS: '3'
+2025-07-22T18:33:22.337839322Z }
+2025-07-22T18:33:22.373219491Z --- classifyProgramme() called ---
+2025-07-22T18:33:22.373234611Z User scores: {
+2025-07-22T18:33:22.373237051Z   CHI: '4',
+2025-07-22T18:33:22.373239131Z   ENG: '4',
+2025-07-22T18:33:22.373241661Z   MAT: '3',
+2025-07-22T18:33:22.373244021Z   CSD: 'Attained',
+2025-07-22T18:33:22.373246161Z   BAF_ACC: '3',
+2025-07-22T18:33:22.373248321Z   HIS: '3'
+2025-07-22T18:33:22.373250401Z }
+2025-07-22T18:33:22.373258022Z Programme requirements: {
+2025-07-22T18:33:22.373261142Z   requirement_compulsory: { ENG: 3, CHI: 3, MAT: 2 },
+2025-07-22T18:33:22.373263342Z   requirement_optional_1: { ELE: 2 },
+2025-07-22T18:33:22.373265412Z   requirement_optional_2: { ELE: 2 },
+2025-07-22T18:33:22.373267472Z   level_5_bonus: false,
+2025-07-22T18:33:22.373269532Z   subject_compulsory: null,
+2025-07-22T18:33:22.373271652Z   subject_optional_1: null,
+2025-07-22T18:33:22.373273672Z   subject_optional_2: null,
+2025-07-22T18:33:22.373275702Z   subject_free_number: 5,
+2025-07-22T18:33:22.373278052Z   subject_free_weight: { ENG: 2, MAT: 2, MEP: 1.5, BAF: 1.5 },
+2025-07-22T18:33:22.373280542Z   subject_weight_limit: null,
+2025-07-22T18:33:22.373282582Z   score_uq: null,
+2025-07-22T18:33:22.373284702Z   score_md: 23.5,
+2025-07-22T18:33:22.373286792Z   score_lq: 23
+2025-07-22T18:33:22.373289212Z }
+2025-07-22T18:33:22.373329473Z Calculated total_score: 25.5
+2025-07-22T18:33:22.373337043Z Quartiles: UQ: null MD: 23.5 LQ: 23
+2025-07-22T18:33:22.373339943Z Final classification: 5
+2025-07-22T18:33:22.373342403Z Classification result for JS7211: 5 (Safe), Score: 25.5
+2025-07-22T18:33:22.373992017Z POST /api/programmes/programmes_2025/classify 200 36ms
+2025-07-22T18:33:22.374025688Z POST /api/programmes/programmes_2025/classify 200 36.392 ms - 139
+2025-07-22T18:33:22.413809508Z POST /api/jupas-order/save 200 74ms
+2025-07-22T18:33:22.413860599Z POST /api/jupas-order/save 200 73.392 ms - 84
+2025-07-22T18:33:23.377396579Z Classifying programme JS7215 with scores: {
+2025-07-22T18:33:23.37742582Z   CHI: '4',
+2025-07-22T18:33:23.37743027Z   ENG: '4',
+2025-07-22T18:33:23.37743433Z   MAT: '3',
+2025-07-22T18:33:23.37743793Z   CSD: 'Attained',
+2025-07-22T18:33:23.377440071Z   BAF_ACC: '3',
+2025-07-22T18:33:23.377442411Z   HIS: '3'
+2025-07-22T18:33:23.37744464Z }
+2025-07-22T18:33:23.388713363Z Classifying programme JS7211 with scores: {
+2025-07-22T18:33:23.388728223Z   CHI: '4',
+2025-07-22T18:33:23.388731113Z   ENG: '4',
+2025-07-22T18:33:23.388733343Z   MAT: '3',
+2025-07-22T18:33:23.388736133Z   CSD: 'Attained',
+2025-07-22T18:33:23.388738493Z   BAF_ACC: '3',
+2025-07-22T18:33:23.388740693Z   HIS: '3'
+2025-07-22T18:33:23.388742753Z }
+2025-07-22T18:33:23.411703047Z --- classifyProgramme() called ---
+2025-07-22T18:33:23.43708603Z User scores: {
+2025-07-22T18:33:23.4370971Z   CHI: '4',
+2025-07-22T18:33:23.43710216Z   ENG: '4',
+2025-07-22T18:33:23.43710469Z   MAT: '3',
+2025-07-22T18:33:23.43710751Z   CSD: 'Attained',
+2025-07-22T18:33:23.43710963Z   BAF_ACC: '3',
+2025-07-22T18:33:23.4371117Z   HIS: '3'
+2025-07-22T18:33:23.437113761Z }
+2025-07-22T18:33:23.437152811Z Programme requirements: {
+2025-07-22T18:33:23.437156071Z   requirement_compulsory: { ENG: 3, CHI: 3, MAT: 2 },
+2025-07-22T18:33:23.437158751Z   requirement_optional_1: { ELE: 2 },
+2025-07-22T18:33:23.437160831Z   requirement_optional_2: { ELE: 2 },
+2025-07-22T18:33:23.437162891Z   level_5_bonus: false,
+2025-07-22T18:33:23.437164922Z   subject_compulsory: null,
+2025-07-22T18:33:23.437167082Z   subject_optional_1: null,
+2025-07-22T18:33:23.437169122Z   subject_optional_2: null,
+2025-07-22T18:33:23.437171122Z   subject_free_number: 5,
+2025-07-22T18:33:23.437174972Z   subject_free_weight: { ENG: 2, MAT: 2, MEP: 1.5, BAF: 1.5, ECO: 1.5, ICT: 1.5 },
+2025-07-22T18:33:23.437178672Z   subject_weight_limit: null,
+2025-07-22T18:33:23.437182922Z   score_uq: null,
+2025-07-22T18:33:23.437186352Z   score_md: 23.5,
+2025-07-22T18:33:23.437189602Z   score_lq: 23
+2025-07-22T18:33:23.437193412Z }
+2025-07-22T18:33:23.437201902Z Calculated total_score: 25.5
+2025-07-22T18:33:23.437205472Z Quartiles: UQ: null MD: 23.5 LQ: 23
+2025-07-22T18:33:23.437208672Z Final classification: 5
+2025-07-22T18:33:23.437212392Z Classification result for JS7215: 5 (Safe), Score: 25.5
+2025-07-22T18:33:23.437215492Z POST /api/programmes/programmes_2025/classify 200 36ms
+2025-07-22T18:33:23.437219043Z POST /api/programmes/programmes_2025/classify 200 35.080 ms - 139
+2025-07-22T18:33:23.437223073Z --- classifyProgramme() called ---
+2025-07-22T18:33:23.437226043Z User scores: {
+2025-07-22T18:33:23.437228133Z   CHI: '4',
+2025-07-22T18:33:23.437230203Z   ENG: '4',
+2025-07-22T18:33:23.437232413Z   MAT: '3',
+2025-07-22T18:33:23.437234473Z   CSD: 'Attained',
+2025-07-22T18:33:23.437236623Z   BAF_ACC: '3',
+2025-07-22T18:33:23.437238653Z   HIS: '3'
+2025-07-22T18:33:23.437240763Z }
+2025-07-22T18:33:23.437242833Z Programme requirements: {
+2025-07-22T18:33:23.437244963Z   requirement_compulsory: { ENG: 3, CHI: 3, MAT: 2 },
+2025-07-22T18:33:23.437247123Z   requirement_optional_1: { ELE: 2 },
+2025-07-22T18:33:23.437249203Z   requirement_optional_2: { ELE: 2 },
+2025-07-22T18:33:23.437251263Z   level_5_bonus: false,
+2025-07-22T18:33:23.437253323Z   subject_compulsory: null,
+2025-07-22T18:33:23.437255393Z   subject_optional_1: null,
+2025-07-22T18:33:23.437257433Z   subject_optional_2: null,
+2025-07-22T18:33:23.437270844Z   subject_free_number: 5,
+2025-07-22T18:33:23.437273054Z   subject_free_weight: { ENG: 2, MAT: 2, MEP: 1.5, BAF: 1.5 },
+2025-07-22T18:33:23.437275194Z   subject_weight_limit: null,
+2025-07-22T18:33:23.437277264Z   score_uq: null,
+2025-07-22T18:33:23.437279374Z   score_md: 23.5,
+2025-07-22T18:33:23.437281444Z   score_lq: 23
+2025-07-22T18:33:23.437283494Z }
+2025-07-22T18:33:23.437285564Z Calculated total_score: 25.5
+2025-07-22T18:33:23.437287714Z Quartiles: UQ: null MD: 23.5 LQ: 23
+2025-07-22T18:33:23.437289784Z Final classification: 5
+2025-07-22T18:33:23.437291934Z Classification result for JS7211: 5 (Safe), Score: 25.5
+2025-07-22T18:33:23.437294024Z POST /api/programmes/programmes_2025/classify 200 37ms
+2025-07-22T18:33:23.437296184Z POST /api/programmes/programmes_2025/classify 200 36.796 ms - 139
+2025-07-22T18:33:23.449556427Z POST /api/jupas-order/save 200 76ms
+2025-07-22T18:33:23.449571587Z POST /api/jupas-order/save 200 75.258 ms - 95
+2025-07-22T18:33:30.475327995Z GET /wp-admin/setup-config.php 200 3ms
+2025-07-22T18:33:30.475352256Z GET /wp-admin/setup-config.php 200 1.330 ms - -
+2025-07-22T18:33:42.224288559Z Finding top 6 programmes starting from classification level 5 and scores: {
+2025-07-22T18:33:42.224314749Z   CHI: '4',
+2025-07-22T18:33:42.224321299Z   ENG: '4',
+2025-07-22T18:33:42.224327299Z   MAT: '3',
+2025-07-22T18:33:42.22433293Z   CSD: 'Attained',
+2025-07-22T18:33:42.22433822Z   BAF_ACC: '3',
+2025-07-22T18:33:42.22434394Z   HIS: '3'
+2025-07-22T18:33:42.22435022Z }
+2025-07-22T18:33:42.22435537Z Loaded 417 programmes from memory for filtering
+2025-07-22T18:33:42.22437022Z Found 392 programmes with classification data in memory
+2025-07-22T18:33:42.22437402Z Found 392 programmes with classification data
+2025-07-22T18:33:42.224594225Z Filtered programmes by institutions: Lingnan University. Found 22 programmes out of 392
+2025-07-22T18:33:42.304772428Z Found programmes in classification levels: 0, 1, 2, 3, 4, 5
+2025-07-22T18:33:42.304801928Z Checking classification levels in ascending order (target 5 and higher): 5
+2025-07-22T18:33:42.304808098Z Adding 2 programmes from classification level 5 (Safe)
+2025-07-22T18:33:42.304826439Z Found 2 programmes across 1 classification levels (5) out of 20 total (processed 20 programmes)
+2025-07-22T18:33:42.307477313Z POST /api/programmes/programmes_2025/recommendations/5 200 84ms
+2025-07-22T18:33:42.307509384Z POST /api/programmes/programmes_2025/recommendations/5 200 81.715 ms - -
+2025-07-22T18:33:42.43247356Z Finding top 6 programmes starting from classification level 5 and scores: {
+2025-07-22T18:33:42.43250673Z   CHI: '4',
+2025-07-22T18:33:42.432512951Z   ENG: '4',
+2025-07-22T18:33:42.432518091Z   MAT: '3',
+2025-07-22T18:33:42.432523961Z   CSD: 'Attained',
+2025-07-22T18:33:42.432529551Z   BAF_ACC: '3',
+2025-07-22T18:33:42.432535421Z   HIS: '3'
+2025-07-22T18:33:42.432539101Z }
+2025-07-22T18:33:42.432543701Z Loaded 417 programmes from memory for filtering
+2025-07-22T18:33:42.432590252Z Found 392 programmes with classification data in memory
+2025-07-22T18:33:42.432601652Z Found 392 programmes with classification data
+2025-07-22T18:33:42.432857878Z Filtered programmes by institutions: Lingnan University, The Hang Seng University of Hong Kong. Found 28 programmes out of 392
+2025-07-22T18:33:42.514206594Z Found programmes in classification levels: 0, 1, 2, 3, 4, 5
+2025-07-22T18:33:42.514227115Z Checking classification levels in ascending order (target 5 and higher): 5
+2025-07-22T18:33:42.514230645Z Adding 2 programmes from classification level 5 (Safe)
+2025-07-22T18:33:42.514250635Z Found 2 programmes across 1 classification levels (5) out of 26 total (processed 26 programmes)
+2025-07-22T18:33:42.516221946Z POST /api/programmes/programmes_2025/recommendations/5 200 85ms
+2025-07-22T18:33:42.516243827Z POST /api/programmes/programmes_2025/recommendations/5 200 82.533 ms - -
+2025-07-22T18:33:46.236845506Z Finding top 6 programmes starting from classification level 7 and scores: {
+2025-07-22T18:33:46.236867957Z   CHI: '4',
+2025-07-22T18:33:46.236871027Z   ENG: '4',
+2025-07-22T18:33:46.236873607Z   MAT: '3',
+2025-07-22T18:33:46.236876687Z   CSD: 'Attained',
+2025-07-22T18:33:46.236879417Z   BAF_ACC: '3',
+2025-07-22T18:33:46.236881887Z   HIS: '3'
+2025-07-22T18:33:46.236884407Z }
+2025-07-22T18:33:46.236887517Z Loaded 417 programmes from memory for filtering
+2025-07-22T18:33:46.236896607Z Found 392 programmes with classification data in memory
+2025-07-22T18:33:46.236899237Z Found 392 programmes with classification data
+2025-07-22T18:33:46.23701083Z Filtered programmes by institutions: Lingnan University, The Hang Seng University of Hong Kong. Found 28 programmes out of 392
+2025-07-22T18:33:46.311170248Z Found programmes in classification levels: 0, 1, 2, 3, 4, 5
+2025-07-22T18:33:46.311188669Z Checking classification levels in ascending order (target 7 and higher): 
+2025-07-22T18:33:46.311192069Z Found 0 programmes across 0 classification levels () out of 26 total (processed 26 programmes)
+2025-07-22T18:33:46.311767951Z POST /api/programmes/programmes_2025/recommendations/7 200 75ms
+2025-07-22T18:33:46.311776991Z POST /api/programmes/programmes_2025/recommendations/7 200 75.045 ms - 373
+2025-07-22T18:33:51.773366976Z Finding top 6 programmes starting from classification level 7 and scores: {
+2025-07-22T18:33:51.773390286Z   CHI: '4',
+2025-07-22T18:33:51.773393596Z   ENG: '4',
+2025-07-22T18:33:51.773396606Z   MAT: '3',
+2025-07-22T18:33:51.773400106Z   CSD: 'Attained',
+2025-07-22T18:33:51.773402877Z   BAF_ACC: '3',
+2025-07-22T18:33:51.773405886Z   HIS: '3'
+2025-07-22T18:33:51.773408837Z }
+2025-07-22T18:33:51.773412547Z Loaded 417 programmes from memory for filtering
+2025-07-22T18:33:51.773457148Z Found 392 programmes with classification data in memory
+2025-07-22T18:33:51.773462468Z Found 392 programmes with classification data
+2025-07-22T18:33:51.773867366Z Filtered programmes by institutions: Lingnan University, The Hang Seng University of Hong Kong. Found 28 programmes out of 392
+2025-07-22T18:33:51.860438891Z Found programmes in classification levels: 0, 1, 2, 3, 4, 5
+2025-07-22T18:33:51.860471891Z Checking classification levels in ascending order (target 7 and higher): 
+2025-07-22T18:33:51.860477521Z Found 0 programmes across 0 classification levels () out of 26 total (processed 26 programmes)
+2025-07-22T18:33:51.861095234Z POST /api/programmes/programmes_2025/recommendations/7 200 88ms
+2025-07-22T18:33:51.861125315Z POST /api/programmes/programmes_2025/recommendations/7 200 87.984 ms - 373
+2025-07-22T18:33:51.999357754Z Finding top 6 programmes starting from classification level 7 and scores: {
+2025-07-22T18:33:51.999383214Z   CHI: '4',
+2025-07-22T18:33:51.999388084Z   ENG: '4',
+2025-07-22T18:33:51.999392364Z   MAT: '3',
+2025-07-22T18:33:51.999397215Z   CSD: 'Attained',
+2025-07-22T18:33:51.999401195Z   BAF_ACC: '3',
+2025-07-22T18:33:51.999405225Z   HIS: '3'
+2025-07-22T18:33:51.999409375Z }
+2025-07-22T18:33:51.999414295Z Loaded 417 programmes from memory for filtering
+2025-07-22T18:33:51.999491867Z Found 392 programmes with classification data in memory
+2025-07-22T18:33:51.999516177Z Found 392 programmes with classification data
+2025-07-22T18:33:51.999753742Z Filtered programmes by institutions: Hong Kong Metropolitan University, Lingnan University, The Hang Seng University of Hong Kong. Found 73 programmes out of 392
+2025-07-22T18:33:52.169789637Z Found programmes in classification levels: 0, 1, 2, 3, 4, 5, 6
+2025-07-22T18:33:52.169814877Z Checking classification levels in ascending order (target 7 and higher): 
+2025-07-22T18:33:52.169818557Z Found 0 programmes across 0 classification levels () out of 71 total (processed 71 programmes)
+2025-07-22T18:33:52.170679975Z POST /api/programmes/programmes_2025/recommendations/7 200 172ms
+2025-07-22T18:33:52.170700166Z POST /api/programmes/programmes_2025/recommendations/7 200 171.252 ms - 411
+2025-07-22T18:33:55.100443204Z Finding top 6 programmes starting from classification level 8 and scores: {
+2025-07-22T18:33:55.100469144Z   CHI: '4',
+2025-07-22T18:33:55.100473534Z   ENG: '4',
+2025-07-22T18:33:55.100477204Z   MAT: '3',
+2025-07-22T18:33:55.100481095Z   CSD: 'Attained',
+2025-07-22T18:33:55.100484515Z   BAF_ACC: '3',
+2025-07-22T18:33:55.100488175Z   HIS: '3'
+2025-07-22T18:33:55.100491785Z }
+2025-07-22T18:33:55.100505815Z Loaded 417 programmes from memory for filtering
+2025-07-22T18:33:55.100518935Z Found 392 programmes with classification data in memory
+2025-07-22T18:33:55.100522735Z Found 392 programmes with classification data
+2025-07-22T18:33:55.100697799Z Filtered programmes by institutions: Hong Kong Metropolitan University, Lingnan University, The Hang Seng University of Hong Kong. Found 73 programmes out of 392
+2025-07-22T18:33:55.258221206Z Found programmes in classification levels: 0, 1, 2, 3, 4, 5, 6
+2025-07-22T18:33:55.258244806Z Checking classification levels in ascending order (target 8 and higher): 
+2025-07-22T18:33:55.258250076Z Found 0 programmes across 0 classification levels () out of 71 total (processed 71 programmes)
+2025-07-22T18:33:55.258831638Z POST /api/programmes/programmes_2025/recommendations/8 200 159ms
+2025-07-22T18:33:55.258843049Z POST /api/programmes/programmes_2025/recommendations/8 200 158.541 ms - 411
+2025-07-22T18:33:58.427229805Z Finding top 6 programmes starting from classification level 5 and scores: {
+2025-07-22T18:33:58.427270276Z   CHI: '4',
+2025-07-22T18:33:58.427275696Z   ENG: '4',
+2025-07-22T18:33:58.427279736Z   MAT: '3',
+2025-07-22T18:33:58.427284176Z   CSD: 'Attained',
+2025-07-22T18:33:58.427287947Z   BAF_ACC: '3',
+2025-07-22T18:33:58.427291937Z   HIS: '3'
+2025-07-22T18:33:58.427295837Z }
+2025-07-22T18:33:58.427300457Z Loaded 417 programmes from memory for filtering
+2025-07-22T18:33:58.427316857Z Found 392 programmes with classification data in memory
+2025-07-22T18:33:58.427321217Z Found 392 programmes with classification data
+2025-07-22T18:33:58.427608693Z Filtered programmes by institutions: Hong Kong Metropolitan University, Lingnan University, The Hang Seng University of Hong Kong. Found 73 programmes out of 392
+2025-07-22T18:33:58.588976769Z Found programmes in classification levels: 0, 1, 2, 3, 4, 5, 6
+2025-07-22T18:33:58.58901741Z Checking classification levels in ascending order (target 5 and higher): 5, 6
+2025-07-22T18:33:58.58902224Z Adding 26 programmes from classification level 5 (Safe)
+2025-07-22T18:33:58.589107222Z Reached quota of 6 programmes, stopping collection
+2025-07-22T18:33:58.589115802Z Found 6 programmes across 2 classification levels (5, 6) out of 71 total (processed 71 programmes)
+2025-07-22T18:33:58.596201468Z POST /api/programmes/programmes_2025/recommendations/5 200 170ms
+2025-07-22T18:33:58.596243589Z POST /api/programmes/programmes_2025/recommendations/5 200 162.893 ms - -
+2025-07-22T18:35:01.746779669Z GET /wordpress/wp-admin/setup-config.php 200 1ms
+2025-07-22T18:35:01.74680804Z GET /wordpress/wp-admin/setup-config.php 200 0.881 ms - -
+2025-07-22T18:35:47.773144316Z GET /wordpress/wp-admin/setup-config.php 200 2ms
+2025-07-22T18:35:47.773165847Z GET /wordpress/wp-admin/setup-config.php 200 0.655 ms - -
+2025-07-22T18:37:15.114987496Z GET /wp-admin/setup-config.php 200 1ms
+2025-07-22T18:37:15.115003887Z GET /wp-admin/setup-config.php 200 0.679 ms - -
+2025-07-22T18:37:55.738761172Z GET /wp-admin/setup-config.php 200 1ms
+2025-07-22T18:37:55.738796503Z GET /wp-admin/setup-config.php 200 0.854 ms - -
+2025-07-22T18:52:53.220351128Z GET /wp-admin/setup-config.php 200 2ms
+2025-07-22T18:52:53.220379898Z GET /wp-admin/setup-config.php 200 0.656 ms - -
+2025-07-22T18:54:22.735944104Z GET /wordpress/wp-admin/setup-config.php 200 1ms
+2025-07-22T18:54:22.735975974Z GET /wordpress/wp-admin/setup-config.php 200 0.683 ms - -
+2025-07-22T18:55:23.606000814Z GET /robots.txt 200 1ms
+2025-07-22T18:55:23.606072206Z GET /robots.txt 200 0.697 ms - 67
+2025-07-22T18:56:09.646490268Z GET /wp-admin/setup-config.php 200 2ms
+2025-07-22T18:56:09.646516038Z GET /wp-admin/setup-config.php 200 0.712 ms - -
+2025-07-22T18:56:39.732841037Z GET /wordpress/wp-admin/setup-config.php 200 1ms
+2025-07-22T18:56:39.732881808Z GET /wordpress/wp-admin/setup-config.php 200 0.594 ms - -
+2025-07-22T19:11:22.643177722Z GET /wordpress/wp-admin/setup-config.php 200 2ms
+2025-07-22T19:11:22.643233943Z GET /wordpress/wp-admin/setup-config.php 200 1.019 ms - -
+2025-07-22T19:11:37.023781007Z GET /wp-admin/setup-config.php 200 1ms
+2025-07-22T19:11:37.023806328Z GET /wp-admin/setup-config.php 200 0.880 ms - -
+2025-07-22T19:14:19.137289019Z GET /wp-admin/setup-config.php 200 2ms
+2025-07-22T19:14:19.137320949Z GET /wp-admin/setup-config.php 200 0.729 ms - -
+2025-07-22T19:14:43.370681111Z GET /wordpress/wp-admin/setup-config.php 200 1ms
+2025-07-22T19:14:43.370717112Z GET /wordpress/wp-admin/setup-config.php 200 0.575 ms - -
+2025-07-22T19:32:49.860738696Z GET /wp-admin/setup-config.php 200 1ms
+2025-07-22T19:32:49.860760626Z GET /wp-admin/setup-config.php 200 0.707 ms - -
+2025-07-22T19:34:03.362269505Z GET /wp-admin/setup-config.php 200 6ms
+2025-07-22T19:34:03.362302276Z GET /wp-admin/setup-config.php 200 4.381 ms - -
+2025-07-22T19:34:57.559336951Z GET /wordpress/wp-admin/setup-config.php 200 2ms
+2025-07-22T19:34:57.559367092Z GET /wordpress/wp-admin/setup-config.php 200 0.731 ms - -
+2025-07-22T19:35:23.082002705Z GET /wordpress/wp-admin/setup-config.php 200 1ms
+2025-07-22T19:35:23.082026915Z GET /wordpress/wp-admin/setup-config.php 200 0.741 ms - -
+2025-07-22T19:50:09.471165361Z GET /wp-admin/setup-config.php 200 1ms
+2025-07-22T19:50:09.471337484Z GET /wp-admin/setup-config.php 200 0.828 ms - -
+2025-07-22T19:52:39.311814739Z GET /wordpress/wp-admin/setup-config.php 200 1ms
+2025-07-22T19:52:39.311848469Z GET /wordpress/wp-admin/setup-config.php 200 0.626 ms - -
+2025-07-22T19:53:04.383322002Z GET /wp-admin/setup-config.php 200 2ms
+2025-07-22T19:53:04.383354142Z GET /wp-admin/setup-config.php 200 0.621 ms - -
+2025-07-22T19:53:35.466333158Z GET /wordpress/wp-admin/setup-config.php 200 2ms
+2025-07-22T19:53:35.466361139Z GET /wordpress/wp-admin/setup-config.php 200 0.679 ms - -
+2025-07-22T19:56:09.176756093Z GET / 200 1ms
+2025-07-22T19:56:09.176786433Z GET / 200 0.459 ms - -
+2025-07-22T19:56:09.439267445Z GET /asset/icons/logo-v3-rounded.png 200 1ms
+2025-07-22T19:56:09.439288805Z GET /asset/icons/logo-v3-rounded.png 200 0.618 ms - 33427
+2025-07-22T20:03:05.080059511Z GET / 200 2ms
+2025-07-22T20:03:05.081114922Z GET / 200 0.761 ms - -
+2025-07-22T20:07:15.596946209Z GET / 200 1ms
+2025-07-22T20:07:15.59697703Z GET / 200 0.629 ms - -
+2025-07-22T20:10:43.144145621Z GET /wp-admin/setup-config.php 200 4ms
+2025-07-22T20:10:43.144185572Z GET /wp-admin/setup-config.php 200 2.969 ms - -
+2025-07-22T20:11:03.755299882Z GET /wp-admin/setup-config.php 200 2ms
+2025-07-22T20:11:03.755332823Z GET /wp-admin/setup-config.php 200 0.623 ms - -
+2025-07-22T20:11:09.67117139Z GET /wordpress/wp-admin/setup-config.php 200 5ms
+2025-07-22T20:11:09.671210061Z GET /wordpress/wp-admin/setup-config.php 200 0.981 ms - -
+2025-07-22T20:13:06.229022971Z GET /wordpress/wp-admin/setup-config.php 200 1ms
+2025-07-22T20:13:06.229070861Z GET /wordpress/wp-admin/setup-config.php 200 0.593 ms - -
+2025-07-22T20:18:04.765535135Z GET / 200 1ms
+2025-07-22T20:18:04.765564495Z GET / 200 0.514 ms - -
+2025-07-22T20:19:56.818820442Z GET / 200 1ms
+2025-07-22T20:19:56.818866733Z GET / 200 0.546 ms - -
+2025-07-22T20:30:52.920310887Z GET /wp-admin/setup-config.php 200 2ms
+2025-07-22T20:30:52.920339948Z GET /wp-admin/setup-config.php 200 0.638 ms - -
+2025-07-22T20:32:31.707226246Z GET /wordpress/wp-admin/setup-config.php 200 13ms
+2025-07-22T20:32:31.707265817Z GET /wordpress/wp-admin/setup-config.php 200 11.366 ms - -
+2025-07-22T20:34:11.453498394Z GET /wp-admin/setup-config.php 200 2ms
+2025-07-22T20:34:11.453527914Z GET /wp-admin/setup-config.php 200 0.613 ms - -
+2025-07-22T20:34:16.52536457Z GET /wordpress/wp-admin/setup-config.php 200 2ms
+2025-07-22T20:34:16.525395291Z GET /wordpress/wp-admin/setup-config.php 200 0.990 ms - -
+2025-07-22T20:50:41.675832448Z GET /wordpress/wp-admin/setup-config.php 200 1ms
+2025-07-22T20:50:41.675864109Z GET /wordpress/wp-admin/setup-config.php 200 0.730 ms - -
+2025-07-22T20:50:56.604212019Z GET /wordpress/wp-admin/setup-config.php 200 2ms
+2025-07-22T20:50:56.60424989Z GET /wordpress/wp-admin/setup-config.php 200 0.775 ms - -
+2025-07-22T20:51:39.777822608Z GET /wp-admin/setup-config.php 200 1ms
+2025-07-22T20:51:39.777841419Z GET /wp-admin/setup-config.php 200 0.739 ms - -
+2025-07-22T20:53:29.005230722Z GET /wp-admin/setup-config.php 200 2ms
+2025-07-22T20:53:29.005830464Z GET /wp-admin/setup-config.php 200 0.692 ms - -
+2025-07-22T21:11:02.939251489Z GET /wp-admin/setup-config.php 200 2ms
+2025-07-22T21:11:02.93928316Z GET /wp-admin/setup-config.php 200 0.724 ms - -
+2025-07-22T21:11:52.526589029Z GET /wordpress/wp-admin/setup-config.php 200 1ms
+2025-07-22T21:11:52.52661924Z GET /wordpress/wp-admin/setup-config.php 200 0.643 ms - -
+2025-07-22T21:12:07.446299835Z GET /wp-admin/setup-config.php 200 2ms
+2025-07-22T21:12:07.446325736Z GET /wp-admin/setup-config.php 200 0.611 ms - -
+2025-07-22T21:13:30.229069279Z GET /wordpress/wp-admin/setup-config.php 200 1ms
+2025-07-22T21:13:30.22909904Z GET /wordpress/wp-admin/setup-config.php 200 0.937 ms - -
+2025-07-22T21:15:38.533956017Z GET / 200 1ms
+2025-07-22T21:15:38.533987818Z GET / 200 0.595 ms - -
+2025-07-22T21:30:26.94396686Z GET /wp-admin/setup-config.php 200 1ms
+2025-07-22T21:30:26.94399126Z GET /wp-admin/setup-config.php 200 0.623 ms - -
+2025-07-22T21:30:41.917262386Z GET /wp-admin/setup-config.php 200 2ms
+2025-07-22T21:30:41.917293276Z GET /wp-admin/setup-config.php 200 0.715 ms - -
+2025-07-22T21:31:42.601141891Z GET /wordpress/wp-admin/setup-config.php 200 1ms
+2025-07-22T21:31:42.601184392Z GET /wordpress/wp-admin/setup-config.php 200 0.665 ms - -
+2025-07-22T21:31:51.652700018Z GET /wordpress/wp-admin/setup-config.php 200 2ms
+2025-07-22T21:31:51.652737988Z GET /wordpress/wp-admin/setup-config.php 200 0.743 ms - -
+2025-07-22T21:50:30.580842589Z GET /wp-admin/setup-config.php 200 1ms
+2025-07-22T21:50:30.58087162Z GET /wp-admin/setup-config.php 200 0.678 ms - -
+2025-07-22T21:50:45.194406341Z GET /wordpress/wp-admin/setup-config.php 200 2ms
+2025-07-22T21:50:45.194430612Z GET /wordpress/wp-admin/setup-config.php 200 0.881 ms - -
+2025-07-22T21:51:34.729815387Z GET /wp-admin/setup-config.php 200 2ms
+2025-07-22T21:51:34.729842688Z GET /wp-admin/setup-config.php 200 0.744 ms - -
+2025-07-22T21:53:33.240458383Z GET /wordpress/wp-admin/setup-config.php 200 2ms
+2025-07-22T21:53:33.240497534Z GET /wordpress/wp-admin/setup-config.php 200 0.715 ms - -
+2025-07-22T21:55:09.472602588Z GET / 200 1ms
+2025-07-22T21:55:09.472632079Z GET / 200 0.560 ms - -
+2025-07-22T21:55:09.799428785Z GET //wp-includes/wlwmanifest.xml 200 2ms
+2025-07-22T21:55:09.799451065Z GET //wp-includes/wlwmanifest.xml 200 0.914 ms - -
+2025-07-22T21:55:10.06834239Z GET //xmlrpc.php?rsd 200 2ms
+2025-07-22T21:55:10.06836765Z GET //xmlrpc.php?rsd 200 0.702 ms - -
+2025-07-22T21:55:10.373700288Z GET / 200 1ms
+2025-07-22T21:55:10.373734629Z GET / 200 0.818 ms - -
+2025-07-22T21:55:10.674416822Z GET //blog/wp-includes/wlwmanifest.xml 200 2ms
+2025-07-22T21:55:10.674444753Z GET //blog/wp-includes/wlwmanifest.xml 200 0.779 ms - -
+2025-07-22T21:55:11.257831092Z GET //web/wp-includes/wlwmanifest.xml 200 1ms
+2025-07-22T21:55:11.257876933Z GET //web/wp-includes/wlwmanifest.xml 200 0.677 ms - -
+2025-07-22T21:55:11.549653744Z GET //wordpress/wp-includes/wlwmanifest.xml 200 1ms
+2025-07-22T21:55:11.549677165Z GET //wordpress/wp-includes/wlwmanifest.xml 200 0.623 ms - -
+2025-07-22T21:55:12.002986241Z GET //website/wp-includes/wlwmanifest.xml 200 1ms
+2025-07-22T21:55:12.003016612Z GET //website/wp-includes/wlwmanifest.xml 200 0.717 ms - -
+2025-07-22T21:55:12.481152614Z GET //wp/wp-includes/wlwmanifest.xml 200 1ms
+2025-07-22T21:55:12.481186765Z GET //wp/wp-includes/wlwmanifest.xml 200 0.649 ms - -
+2025-07-22T21:55:13.221144928Z GET //news/wp-includes/wlwmanifest.xml 200 1ms
+2025-07-22T21:55:13.221172539Z GET //news/wp-includes/wlwmanifest.xml 200 0.695 ms - -
+2025-07-22T21:55:13.566074703Z GET //2018/wp-includes/wlwmanifest.xml 200 1ms
+2025-07-22T21:55:13.566105284Z GET //2018/wp-includes/wlwmanifest.xml 200 0.895 ms - -
+2025-07-22T21:55:13.795384631Z GET //2019/wp-includes/wlwmanifest.xml 200 2ms
+2025-07-22T21:55:13.795415441Z GET //2019/wp-includes/wlwmanifest.xml 200 0.751 ms - -
+2025-07-22T21:55:13.997048994Z GET //shop/wp-includes/wlwmanifest.xml 200 1ms
+2025-07-22T21:55:13.997083515Z GET //shop/wp-includes/wlwmanifest.xml 200 0.704 ms - -
+2025-07-22T21:55:14.242626153Z GET //wp1/wp-includes/wlwmanifest.xml 200 2ms
+2025-07-22T21:55:14.242652854Z GET //wp1/wp-includes/wlwmanifest.xml 200 0.735 ms - -
+2025-07-22T21:55:14.615318255Z GET //test/wp-includes/wlwmanifest.xml 200 2ms
+2025-07-22T21:55:14.615342566Z GET //test/wp-includes/wlwmanifest.xml 200 0.749 ms - -
+2025-07-22T21:55:14.81410493Z GET //media/wp-includes/wlwmanifest.xml 200 1ms
+2025-07-22T21:55:14.81413012Z GET //media/wp-includes/wlwmanifest.xml 200 0.673 ms - -
+2025-07-22T21:55:15.007219469Z GET //wp2/wp-includes/wlwmanifest.xml 200 1ms
+2025-07-22T21:55:15.00724543Z GET //wp2/wp-includes/wlwmanifest.xml 200 0.635 ms - -
+2025-07-22T21:55:15.253002922Z GET //site/wp-includes/wlwmanifest.xml 200 1ms
+2025-07-22T21:55:15.253050863Z GET //site/wp-includes/wlwmanifest.xml 200 0.716 ms - -
+2025-07-22T21:55:15.460569436Z GET //cms/wp-includes/wlwmanifest.xml 200 2ms
+2025-07-22T21:55:15.460592337Z GET //cms/wp-includes/wlwmanifest.xml 200 0.769 ms - -
+2025-07-22T21:55:15.7951011Z GET //sito/wp-includes/wlwmanifest.xml 200 1ms
+2025-07-22T21:55:15.79512552Z GET //sito/wp-includes/wlwmanifest.xml 200 0.695 ms - -
+2025-07-22T21:57:16.490929057Z GET / 200 1ms
+2025-07-22T21:57:16.490951357Z GET / 200 0.594 ms - -
+2025-07-22T22:09:10.86418344Z GET /wp-admin/setup-config.php 200 2ms
+2025-07-22T22:09:10.864219361Z GET /wp-admin/setup-config.php 200 0.683 ms - -
+2025-07-22T22:12:40.094459757Z GET /wordpress/wp-admin/setup-config.php 200 2ms
+2025-07-22T22:12:40.094490398Z GET /wordpress/wp-admin/setup-config.php 200 0.633 ms - -
+2025-07-22T22:12:54.611140341Z GET /wp-admin/setup-config.php 200 1ms
+2025-07-22T22:12:54.611171401Z GET /wp-admin/setup-config.php 200 0.723 ms - -
+2025-07-22T22:13:16.705851442Z GET /wordpress/wp-admin/setup-config.php 200 2ms
+2025-07-22T22:13:16.705888473Z GET /wordpress/wp-admin/setup-config.php 200 0.705 ms - -
+2025-07-22T22:28:30.375442513Z GET /wp-admin/setup-config.php 200 2ms
+2025-07-22T22:28:30.375475643Z GET /wp-admin/setup-config.php 200 0.707 ms - -
+2025-07-22T22:31:46.167877056Z GET /wp-admin/setup-config.php 200 1ms
+2025-07-22T22:31:46.167906356Z GET /wp-admin/setup-config.php 200 0.729 ms - -
+2025-07-22T22:32:15.109379669Z GET /wordpress/wp-admin/setup-config.php 200 2ms
+2025-07-22T22:32:15.109410689Z GET /wordpress/wp-admin/setup-config.php 200 0.650 ms - -
+2025-07-22T22:32:24.715662888Z GET /wordpress/wp-admin/setup-config.php 200 1ms
+2025-07-22T22:32:24.715688819Z GET /wordpress/wp-admin/setup-config.php 200 0.606 ms - -
+2025-07-22T22:49:59.245106524Z GET /wp-admin/setup-config.php 200 1ms
+2025-07-22T22:49:59.245140705Z GET /wp-admin/setup-config.php 200 0.645 ms - -
+2025-07-22T22:50:55.998704273Z GET /wordpress/wp-admin/setup-config.php 200 1ms
+2025-07-22T22:50:55.998731774Z GET /wordpress/wp-admin/setup-config.php 200 0.675 ms - -
+2025-07-22T22:51:09.736213052Z GET /wp-admin/setup-config.php 200 2ms
+2025-07-22T22:51:09.736243683Z GET /wp-admin/setup-config.php 200 0.665 ms - -
+2025-07-22T22:51:55.92807912Z GET /wordpress/wp-admin/setup-config.php 200 1ms
+2025-07-22T22:51:55.92810565Z GET /wordpress/wp-admin/setup-config.php 200 0.666 ms - -
+2025-07-22T23:03:46.078828297Z GET / 200 7ms
+2025-07-22T23:03:46.079123533Z GET / 200 5.927 ms - -
+2025-07-22T23:08:38.445500038Z GET /wordpress/wp-admin/setup-config.php 200 1ms
+2025-07-22T23:08:38.445527709Z GET /wordpress/wp-admin/setup-config.php 200 0.645 ms - -
+2025-07-22T23:09:04.56419271Z GET /wp-admin/setup-config.php 200 2ms
+2025-07-22T23:09:04.5642282Z GET /wp-admin/setup-config.php 200 0.722 ms - -
+2025-07-22T23:12:07.048083416Z GET /wp-admin/setup-config.php 200 1ms
+2025-07-22T23:12:07.048112166Z GET /wp-admin/setup-config.php 200 0.621 ms - -
+2025-07-22T23:12:40.706850016Z GET /wordpress/wp-admin/setup-config.php 200 1ms
+2025-07-22T23:12:40.706884437Z GET /wordpress/wp-admin/setup-config.php 200 0.706 ms - -
+2025-07-22T23:29:57.626370425Z GET /wp-admin/setup-config.php 200 2ms
+2025-07-22T23:29:57.626404885Z GET /wp-admin/setup-config.php 200 0.772 ms - -
+2025-07-22T23:30:08.405551246Z GET /wordpress/wp-admin/setup-config.php 200 2ms
+2025-07-22T23:30:08.405571266Z GET /wordpress/wp-admin/setup-config.php 200 0.804 ms - -
+2025-07-22T23:30:37.334452675Z GET /wp-admin/setup-config.php 200 2ms
+2025-07-22T23:30:37.334488725Z GET /wp-admin/setup-config.php 200 0.689 ms - -
+2025-07-22T23:31:40.512357174Z GET /wordpress/wp-admin/setup-config.php 200 2ms
+2025-07-22T23:31:40.512390045Z GET /wordpress/wp-admin/setup-config.php 200 0.764 ms - -
+2025-07-22T23:47:14.316732478Z GET /wp-admin/setup-config.php 200 1ms
+2025-07-22T23:47:14.316771239Z GET /wp-admin/setup-config.php 200 0.642 ms - -
+2025-07-22T23:48:58.145710891Z GET /wordpress/wp-admin/setup-config.php 200 2ms
+2025-07-22T23:48:58.145744581Z GET /wordpress/wp-admin/setup-config.php 200 0.800 ms - -
+2025-07-22T23:49:07.582001025Z GET /wordpress/wp-admin/setup-config.php 200 1ms
+2025-07-22T23:49:07.582057566Z GET /wordpress/wp-admin/setup-config.php 200 0.728 ms - -
+2025-07-22T23:49:07.988213986Z GET /wp-admin/setup-config.php 200 2ms
+2025-07-22T23:49:07.988237426Z GET /wp-admin/setup-config.php 200 0.665 ms - -
+2025-07-23T00:07:16.305300867Z GET /wp-admin/setup-config.php 200 2ms
+2025-07-23T00:07:16.305333488Z GET /wp-admin/setup-config.php 200 0.632 ms - -
+2025-07-23T00:08:07.31894762Z GET /wordpress/wp-admin/setup-config.php 200 1ms
+2025-07-23T00:08:07.318978541Z GET /wordpress/wp-admin/setup-config.php 200 0.851 ms - -
+2025-07-23T00:09:27.099441145Z GET /wp-admin/setup-config.php 200 2ms
+2025-07-23T00:09:27.099463036Z GET /wp-admin/setup-config.php 200 0.699 ms - -
+2025-07-23T00:11:04.868361446Z GET /wordpress/wp-admin/setup-config.php 200 2ms
+2025-07-23T00:11:04.868382417Z GET /wordpress/wp-admin/setup-config.php 200 0.745 ms - -
+2025-07-23T00:11:32.718205976Z GET / 200 2ms
+2025-07-23T00:11:32.718236206Z GET / 200 0.639 ms - -
+2025-07-23T00:18:27.91936042Z GET / 200 1ms
+2025-07-23T00:18:27.919390151Z GET / 200 0.466 ms - -
+2025-07-23T00:29:58.289665507Z GET /wordpress/wp-admin/setup-config.php 200 1ms
+2025-07-23T00:29:58.289703418Z GET /wordpress/wp-admin/setup-config.php 200 0.645 ms - -
+2025-07-23T00:30:19.459800611Z GET /wordpress/wp-admin/setup-config.php 200 1ms
+2025-07-23T00:30:19.459832112Z GET /wordpress/wp-admin/setup-config.php 200 0.665 ms - -
+2025-07-23T00:31:46.153527157Z GET /wp-admin/setup-config.php 200 1ms
+2025-07-23T00:31:46.153557967Z GET /wp-admin/setup-config.php 200 0.616 ms - -
+2025-07-23T00:32:32.58140728Z GET /wp-admin/setup-config.php 200 2ms
+2025-07-23T00:32:32.581429951Z GET /wp-admin/setup-config.php 200 0.663 ms - -
+2025-07-23T00:48:03.277143884Z GET /wordpress/wp-admin/setup-config.php 200 2ms
+2025-07-23T00:48:03.277182545Z GET /wordpress/wp-admin/setup-config.php 200 0.877 ms - -
+2025-07-23T00:48:08.123897919Z GET /wordpress/wp-admin/setup-config.php 200 1ms
+2025-07-23T00:48:08.123929149Z GET /wordpress/wp-admin/setup-config.php 200 0.898 ms - -
+2025-07-23T00:48:33.125206741Z GET /wp-admin/setup-config.php 200 2ms
+2025-07-23T00:48:33.125240482Z GET /wp-admin/setup-config.php 200 0.813 ms - -
+2025-07-23T00:49:50.074875502Z GET /wp-admin/setup-config.php 200 1ms
+2025-07-23T00:49:50.074911843Z GET /wp-admin/setup-config.php 200 0.641 ms - -
+2025-07-23T00:59:09.353899636Z GET / 200 1ms
+2025-07-23T00:59:09.353930356Z GET / 200 0.517 ms - -
+2025-07-23T00:59:12.187456303Z GET /static/css/main.e479f1c5.css 200 2ms
+2025-07-23T00:59:12.187483894Z GET /static/css/main.e479f1c5.css 200 0.537 ms - -
+2025-07-23T00:59:12.687099222Z GET /asset/icons/logo-v3-rounded.png 200 0ms
+2025-07-23T00:59:12.687128463Z GET /asset/icons/logo-v3-rounded.png 200 0.495 ms - 33427
+2025-07-23T00:59:14.269469701Z GET /asset/icons/logo-mono.svg 200 4ms
+2025-07-23T00:59:14.269496922Z GET /asset/icons/logo-mono.svg 200 1.532 ms - -
+2025-07-23T00:59:16.823927218Z GET /asset/icons/logo-v3-apple.png 200 1ms
+2025-07-23T00:59:16.823952659Z GET /asset/icons/logo-v3-apple.png 200 0.632 ms - 10023
+2025-07-23T00:59:17.036948262Z GET /static/js/main.2d815d68.js 200 18ms
+2025-07-23T00:59:17.036974052Z GET /static/js/main.2d815d68.js 200 0.565 ms - -
+2025-07-23T00:59:20.195198066Z GET /asset/icons/ico/logo-v3-rounded.ico 200 3ms
+2025-07-23T00:59:20.195218597Z GET /asset/icons/ico/logo-v3-rounded.ico 200 0.592 ms - -
+2025-07-23T00:59:20.253518194Z GET /js/lkk_ch.js 200 2ms
+2025-07-23T00:59:20.253535034Z GET /js/lkk_ch.js 200 1.265 ms - -
+2025-07-23T00:59:20.443348611Z GET /manifest.json 200 2ms
+2025-07-23T00:59:20.443370272Z GET /manifest.json 200 0.500 ms - -
+2025-07-23T00:59:20.623216554Z GET /js/twint_ch.js 200 2ms
+2025-07-23T00:59:20.623241885Z GET /js/twint_ch.js 200 1.029 ms - -
+2025-07-23T01:10:54.58359045Z GET /wp-admin/setup-config.php 200 1ms
+2025-07-23T01:10:54.583615201Z GET /wp-admin/setup-config.php 200 0.579 ms - -
+2025-07-23T01:10:55.376780213Z GET /wp-admin/setup-config.php 200 1ms
+2025-07-23T01:10:55.376807024Z GET /wp-admin/setup-config.php 200 0.601 ms - -
+2025-07-23T01:11:48.325865272Z GET /wordpress/wp-admin/setup-config.php 200 1ms
+2025-07-23T01:11:48.325895723Z GET /wordpress/wp-admin/setup-config.php 200 0.730 ms - -
+2025-07-23T01:11:48.52730325Z GET /wordpress/wp-admin/setup-config.php 200 2ms
+2025-07-23T01:11:48.52733294Z GET /wordpress/wp-admin/setup-config.php 200 1.139 ms - -
+2025-07-23T01:29:45.731144774Z GET /wordpress/wp-admin/setup-config.php 200 2ms
+2025-07-23T01:29:45.731169664Z GET /wordpress/wp-admin/setup-config.php 200 1.050 ms - -
+2025-07-23T01:29:59.988728906Z GET /wordpress/wp-admin/setup-config.php 200 2ms
+2025-07-23T01:29:59.988755846Z GET /wordpress/wp-admin/setup-config.php 200 0.748 ms - -
+2025-07-23T01:31:26.498794532Z GET /wp-admin/setup-config.php 200 1ms
+2025-07-23T01:31:26.498822483Z GET /wp-admin/setup-config.php 200 0.590 ms - -
+2025-07-23T01:32:26.466380715Z GET /wp-admin/setup-config.php 200 2ms
+2025-07-23T01:32:26.466399916Z GET /wp-admin/setup-config.php 200 0.579 ms - -
+2025-07-23T01:48:07.270899871Z GET / 200 1ms
+2025-07-23T01:48:07.270946602Z GET / 200 0.695 ms - -
+2025-07-23T01:48:07.36554234Z GET //wp-includes/wlwmanifest.xml 200 2ms
+2025-07-23T01:48:07.365581121Z GET //wp-includes/wlwmanifest.xml 200 0.877 ms - -
+2025-07-23T01:48:07.388245966Z GET //xmlrpc.php?rsd 200 2ms
+2025-07-23T01:48:07.388274866Z GET //xmlrpc.php?rsd 200 0.645 ms - -
+2025-07-23T01:48:07.408834938Z GET / 200 1ms
+2025-07-23T01:48:07.408854628Z GET / 200 0.443 ms - -
+2025-07-23T01:48:07.444956108Z GET //blog/wp-includes/wlwmanifest.xml 200 1ms
+2025-07-23T01:48:07.444978798Z GET //blog/wp-includes/wlwmanifest.xml 200 0.718 ms - -
+2025-07-23T01:48:07.485267714Z GET //web/wp-includes/wlwmanifest.xml 200 3ms
+2025-07-23T01:48:07.485291114Z GET //web/wp-includes/wlwmanifest.xml 200 0.931 ms - -
+2025-07-23T01:48:07.525751713Z GET //wordpress/wp-includes/wlwmanifest.xml 200 1ms
+2025-07-23T01:48:07.525773254Z GET //wordpress/wp-includes/wlwmanifest.xml 200 0.751 ms - -
+2025-07-23T01:48:07.55149505Z GET //website/wp-includes/wlwmanifest.xml 200 2ms
+2025-07-23T01:48:07.551521861Z GET //website/wp-includes/wlwmanifest.xml 200 0.781 ms - -
+2025-07-23T01:48:07.572804427Z GET //wp/wp-includes/wlwmanifest.xml 200 2ms
+2025-07-23T01:48:07.572829818Z GET //wp/wp-includes/wlwmanifest.xml 200 1.233 ms - -
+2025-07-23T01:48:07.604740621Z GET //news/wp-includes/wlwmanifest.xml 200 2ms
+2025-07-23T01:48:07.604764372Z GET //news/wp-includes/wlwmanifest.xml 200 0.812 ms - -
+2025-07-23T01:48:07.650888087Z GET //2020/wp-includes/wlwmanifest.xml 200 1ms
+2025-07-23T01:48:07.650913318Z GET //2020/wp-includes/wlwmanifest.xml 200 0.733 ms - -
+2025-07-23T01:48:07.67007954Z GET //2019/wp-includes/wlwmanifest.xml 200 1ms
+2025-07-23T01:48:07.670109261Z GET //2019/wp-includes/wlwmanifest.xml 200 0.739 ms - -
+2025-07-23T01:48:07.692799986Z GET //shop/wp-includes/wlwmanifest.xml 200 1ms
+2025-07-23T01:48:07.692824366Z GET //shop/wp-includes/wlwmanifest.xml 200 0.653 ms - -
+2025-07-23T01:48:07.723893173Z GET //wp1/wp-includes/wlwmanifest.xml 200 1ms
+2025-07-23T01:48:07.723920663Z GET //wp1/wp-includes/wlwmanifest.xml 200 0.645 ms - -
+2025-07-23T01:48:07.761913122Z GET //test/wp-includes/wlwmanifest.xml 200 2ms
+2025-07-23T01:48:07.761936702Z GET //test/wp-includes/wlwmanifest.xml 200 1.177 ms - -
+2025-07-23T01:48:07.794887508Z GET //wp2/wp-includes/wlwmanifest.xml 200 1ms
+2025-07-23T01:48:07.794912508Z GET //wp2/wp-includes/wlwmanifest.xml 200 0.723 ms - -
+2025-07-23T01:48:07.844266329Z GET //site/wp-includes/wlwmanifest.xml 200 2ms
+2025-07-23T01:48:07.84428522Z GET //site/wp-includes/wlwmanifest.xml 200 0.680 ms - -
+2025-07-23T01:48:07.866872312Z GET //cms/wp-includes/wlwmanifest.xml 200 1ms
+2025-07-23T01:48:07.866900963Z GET //cms/wp-includes/wlwmanifest.xml 200 0.770 ms - -
+2025-07-23T01:48:07.888522456Z GET //sito/wp-includes/wlwmanifest.xml 200 1ms
+2025-07-23T01:48:07.888548887Z GET //sito/wp-includes/wlwmanifest.xml 200 0.595 ms - -
+2025-07-23T01:50:57.828096736Z GET /wp-admin/setup-config.php 200 1ms
+2025-07-23T01:50:57.828127657Z GET /wp-admin/setup-config.php 200 0.714 ms - -
+2025-07-23T01:51:02.140096041Z GET /wp-admin/setup-config.php 200 1ms
+2025-07-23T01:51:02.140127722Z GET /wp-admin/setup-config.php 200 0.671 ms - -
+2025-07-23T01:52:22.007535281Z GET /wordpress/wp-admin/setup-config.php 200 2ms
+2025-07-23T01:52:22.007557321Z GET /wordpress/wp-admin/setup-config.php 200 0.743 ms - -
+2025-07-23T01:53:32.116526816Z GET /wordpress/wp-admin/setup-config.php 200 2ms
+2025-07-23T01:53:32.116572327Z GET /wordpress/wp-admin/setup-config.php 200 0.687 ms - -
+2025-07-23T02:05:12.876976085Z GET / 200 1ms
+2025-07-23T02:05:12.877001545Z GET / 200 0.519 ms - -
+2025-07-23T02:09:25.313679071Z GET /wp-admin/setup-config.php 200 1ms
+2025-07-23T02:09:25.313708292Z GET /wp-admin/setup-config.php 200 0.677 ms - -
+2025-07-23T02:10:53.894886007Z GET /wordpress/wp-admin/setup-config.php 200 1ms
+2025-07-23T02:10:53.894925148Z GET /wordpress/wp-admin/setup-config.php 200 0.719 ms - -
+2025-07-23T02:10:58.390842504Z GET /wp-admin/setup-config.php 200 1ms
+2025-07-23T02:10:58.390880724Z GET /wp-admin/setup-config.php 200 0.664 ms - -
+2025-07-23T02:10:58.675697206Z GET /wordpress/wp-admin/setup-config.php 200 2ms
+2025-07-23T02:10:58.675741087Z GET /wordpress/wp-admin/setup-config.php 200 1.054 ms - -
+2025-07-23T02:18:33.794967403Z GET / 200 1ms
+2025-07-23T02:18:33.795002174Z GET / 200 0.624 ms - -
+2025-07-23T02:25:32.888971776Z GET /wp-admin/setup-config.php 200 1ms
+2025-07-23T02:25:32.889001617Z GET /wp-admin/setup-config.php 200 0.620 ms - -
+2025-07-23T02:27:01.131407124Z GET /wordpress/wp-admin/setup-config.php 200 2ms
+2025-07-23T02:27:01.131437004Z GET /wordpress/wp-admin/setup-config.php 200 0.701 ms - -
+2025-07-23T02:27:06.15847598Z GET /wordpress/wp-admin/setup-config.php 200 2ms
+2025-07-23T02:27:06.15850358Z GET /wordpress/wp-admin/setup-config.php 200 0.673 ms - -
+2025-07-23T02:28:23.709791302Z GET /wp-admin/setup-config.php 200 1ms
+2025-07-23T02:28:23.709824303Z GET /wp-admin/setup-config.php 200 0.672 ms - -
+2025-07-23T02:28:33.562604495Z GET /robots.txt 200 1ms
+2025-07-23T02:28:33.562635116Z GET /robots.txt 200 0.592 ms - 67
+2025-07-23T02:28:33.892504282Z GET /jupaselect 200 2ms
+2025-07-23T02:28:33.892527342Z GET /jupaselect 200 0.786 ms - -
+2025-07-23T02:28:48.305641077Z GET /static/css/main.e479f1c5.css 200 2ms
+2025-07-23T02:28:48.305665617Z GET /static/css/main.e479f1c5.css 200 0.574 ms - -
+2025-07-23T02:28:48.711106874Z GET /static/js/main.2d815d68.js 200 16ms
+2025-07-23T02:28:48.711136714Z GET /static/js/main.2d815d68.js 200 0.611 ms - -
+2025-07-23T02:28:49.23839551Z Determining current programme year
+2025-07-23T02:28:49.274367427Z Available programme collections: [ 'programmes_2025' ]
+2025-07-23T02:28:49.274467Z Current date: 2025-07-23T02:28:49.274Z, Target year: 2026, Selected collection: programmes_2025
+2025-07-23T02:28:49.275235105Z GET /api/programmes/year/current 200 37ms
+2025-07-23T02:28:49.275250426Z GET /api/programmes/year/current 200 36.707 ms - 225
+2025-07-23T02:28:49.858078821Z POST /api/programmes/cache/preload 200 1ms
+2025-07-23T02:28:49.858100121Z POST /api/programmes/cache/preload 200 0.927 ms - 231
+2025-07-23T02:28:50.16127202Z Fetching available programme collections
+2025-07-23T02:28:50.19735229Z Available programme collections: [ 'programmes_2025' ]
+2025-07-23T02:28:50.197946422Z GET /api/programmes/collections/available 200 37ms
+2025-07-23T02:28:50.197974243Z GET /api/programmes/collections/available 200 36.588 ms - 50
+2025-07-23T02:43:40.345411365Z GET /wp-admin/setup-config.php 200 2ms
+2025-07-23T02:43:40.345439195Z GET /wp-admin/setup-config.php 200 0.906 ms - -
+2025-07-23T02:44:39.665946439Z GET /wordpress/wp-admin/setup-config.php 200 1ms
+2025-07-23T02:44:39.665983309Z GET /wordpress/wp-admin/setup-config.php 200 0.722 ms - -
+2025-07-23T02:45:38.265195481Z GET /wp-admin/setup-config.php 200 2ms
+2025-07-23T02:45:38.265234152Z GET /wp-admin/setup-config.php 200 0.684 ms - -
+2025-07-23T02:46:08.153140953Z GET /wordpress/wp-admin/setup-config.php 200 1ms
+2025-07-23T02:46:08.153166963Z GET /wordpress/wp-admin/setup-config.php 200 0.650 ms - -
+2025-07-23T03:02:29.508434721Z GET /wordpress/wp-admin/setup-config.php 200 2ms
+2025-07-23T03:02:29.508463572Z GET /wordpress/wp-admin/setup-config.php 200 0.644 ms - -
+2025-07-23T03:03:14.967182143Z GET /wordpress/wp-admin/setup-config.php 200 2ms
+2025-07-23T03:03:14.967218494Z GET /wordpress/wp-admin/setup-config.php 200 0.625 ms - -
+2025-07-23T03:03:55.298204591Z GET /wp-admin/setup-config.php 200 2ms
+2025-07-23T03:03:55.298242882Z GET /wp-admin/setup-config.php 200 0.679 ms - -
+2025-07-23T03:04:15.02748705Z GET /wp-admin/setup-config.php 200 2ms
+2025-07-23T03:04:15.02752473Z GET /wp-admin/setup-config.php 200 0.651 ms - -
+2025-07-23T03:20:20.92531354Z GET /wordpress/wp-admin/setup-config.php 200 2ms
+2025-07-23T03:20:20.925341411Z GET /wordpress/wp-admin/setup-config.php 200 0.759 ms - -
+2025-07-23T03:20:25.571990553Z GET / 200 1ms
+2025-07-23T03:20:25.572019854Z GET / 200 0.619 ms - -
+2025-07-23T03:21:34.921827001Z GET /wp-admin/setup-config.php 200 1ms
+2025-07-23T03:21:34.921855812Z GET /wp-admin/setup-config.php 200 0.639 ms - -
+2025-07-23T03:21:44.404635737Z GET /wp-admin/setup-config.php 200 1ms
+2025-07-23T03:21:44.404662697Z GET /wp-admin/setup-config.php 200 0.695 ms - -
+2025-07-23T03:21:58.835051045Z GET /wordpress/wp-admin/setup-config.php 200 1ms
+2025-07-23T03:21:58.835081216Z GET /wordpress/wp-admin/setup-config.php 200 0.812 ms - -
+2025-07-23T03:25:06.560680302Z GET /media/system/js/core.js 200 2ms
+2025-07-23T03:25:06.560709623Z GET /media/system/js/core.js 200 0.707 ms - -
+2025-07-23T03:25:06.716449883Z GET /wp-includes/js/jquery/jquery.js 200 2ms
+2025-07-23T03:25:06.716477283Z GET /wp-includes/js/jquery/jquery.js 200 0.672 ms - -
+2025-07-23T03:42:12.283097779Z GET /wordpress/wp-admin/setup-config.php 200 1ms
+2025-07-23T03:42:12.2831275Z GET /wordpress/wp-admin/setup-config.php 200 0.656 ms - -
+2025-07-23T03:42:59.147153237Z GET /wordpress/wp-admin/setup-config.php 200 1ms
+2025-07-23T03:42:59.147183908Z GET /wordpress/wp-admin/setup-config.php 200 0.636 ms - -
+2025-07-23T03:44:07.975786391Z GET /wp-admin/setup-config.php 200 1ms
+2025-07-23T03:44:07.975812971Z GET /wp-admin/setup-config.php 200 0.662 ms - -
+2025-07-23T03:44:17.767623843Z GET /wp-admin/setup-config.php 200 1ms
+2025-07-23T03:44:17.767652743Z GET /wp-admin/setup-config.php 200 0.617 ms - -
+2025-07-23T03:58:45.369503236Z GET /wp-admin/setup-config.php 200 2ms
+2025-07-23T03:58:45.369526696Z GET /wp-admin/setup-config.php 200 0.763 ms - -
+2025-07-23T04:01:10.092490428Z GET /wordpress/wp-admin/setup-config.php 200 2ms
+2025-07-23T04:01:10.092520478Z GET /wordpress/wp-admin/setup-config.php 200 0.700 ms - -
+2025-07-23T04:02:38.252639349Z GET /wordpress/wp-admin/setup-config.php 200 2ms
+2025-07-23T04:02:38.25266894Z GET /wordpress/wp-admin/setup-config.php 200 0.966 ms - -
+2025-07-23T04:02:53.672838635Z GET /wp-admin/setup-config.php 200 1ms
+2025-07-23T04:02:53.672874016Z GET /wp-admin/setup-config.php 200 0.682 ms - -
